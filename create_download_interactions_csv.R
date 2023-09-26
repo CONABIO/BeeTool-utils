@@ -1,3 +1,14 @@
+# This R script retrieves interaction data between bee species and plants from 
+# the GLOBI database. It does the following:
+#   
+# 1. Sets up a base URL for GLOBI API queries with specific parameters.
+# 2. Reads bee species data from "bee-sps.csv."
+# 3. Creates new columns for scientific names and download URLs.
+# 4. Writes the processed data to "bee_interaction_downloads.csv."
+# 
+# In essence, this script streamlines the retrieval of interaction data for bee 
+# species and plants from GLOBI for further analysis.
+
 library(tidyverse)
 
 URL1 = "https://api.globalbioticinteractions.org/interaction?type=csv&interactionType=interactsWith&limit=4096&offset=0&refutes=false&includeObservations=true&sourceTaxon="
