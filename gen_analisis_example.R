@@ -2,6 +2,8 @@ library(dplyr)
 library(tibble)
 library(httr)
 
+options(scipen = 999)
+
 # test <- '{
 #   "source":[{
 #     "biotic":true,
@@ -92,6 +94,5 @@ data <- list(source = as.data.frame(bee_data), target = as.data.frame(plant_data
      niveltaxonomico = "species", genTokenAndSaveResults = TRUE)
 URL1 <- "http://species.conabio.gob.mx/api/dbdev/niche/getTaxonsGroupNodes"
 r <- POST(URL1, body = data, encode = "json")
-
-
+content(r)
 
