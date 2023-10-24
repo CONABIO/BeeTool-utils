@@ -1,0 +1,588 @@
+,source_taxon_name,latitude,longitude,ISO_A2,NAME_ES,searched_taxon_name,target_taxon_name,country_name,Estatus.Taxonómico,Nombre.Válido,Autoridad,Rango.Taxonómico,Familia,Forma.biológica
+1,Xylocopa sonorina,37.428855,-122.1179667,US,Estados Unidos,Abelia,Abelia,Estados Unidos,Aceptado,Abelia,R. Br.,Género,Caprifoliaceae,Arbusto
+6,Xylocopa sonorina,37.6733147,-121.7541234,US,Estados Unidos,Abelia,Abelia,Estados Unidos,Aceptado,Abelia,R. Br.,Género,Caprifoliaceae,Arbusto
+7,Xylocopa sonorina,37.33456458,-121.9225164,US,Estados Unidos,Abelia,Abelia,Estados Unidos,Aceptado,Abelia,R. Br.,Género,Caprifoliaceae,Arbusto
+9,Xylocopa sonorina,37.992195,-121.7395667,US,Estados Unidos,Abelia × grandiflora,Abelia × grandiflora,Estados Unidos,Aceptado,Abelia × grandiflora,(Rovelli ex André) Rehder,Híbrido,Caprifoliaceae,Arbusto
+10,Xylocopa sonorina,37.33506808,-121.9228711,US,Estados Unidos,Abelia × grandiflora,Abelia × grandiflora,Estados Unidos,Aceptado,Abelia × grandiflora,(Rovelli ex André) Rehder,Híbrido,Caprifoliaceae,Arbusto
+42,Xylocopa sonorina,38.30487818,-122.2733824,US,Estados Unidos,Abutilon grandiflorum,Abutilon grandiflorum,Estados Unidos,Aceptado,Abutilon grandiflorum,G. Don,Especie,Malvaceae,Arbusto|Herbácea
+43,Xylocopa sonorina,37.19471933,-121.7376653,US,Estados Unidos,Abutilon palmeri,Abutilon palmeri,Estados Unidos,Aceptado,Abutilon palmeri ,A. Gray,Especie,Malvaceae,Arbusto
+640,Xylocopa sonorina,37.347561,-121.9515333,US,Estados Unidos,Aeonium,Aeonium,Estados Unidos,Aceptado,Aeonium,Webb & Berthel.,Género,Crassulaceae,Arbusto|Herbácea
+655,Xylocopa sonorina,37.48118667,-122.154275,US,Estados Unidos,Aesculus,Aesculus,Estados Unidos|Japón,Aceptado,Aesculus,L.,Género,Sapindaceae,Árbol|Arbusto
+663,Xylocopa sonorina,37.92311808,-122.0755124,US,Estados Unidos,Aesculus californica,Aesculus californica,Estados Unidos,Aceptado,Aesculus californica,(Spach) Nutt.,Especie,Sapindaceae,Árbol|Arbusto
+669,Xylocopa sonorina,37.961405,-122.052957,US,Estados Unidos,Aesculus californica,Aesculus californica,Estados Unidos,Aceptado,Aesculus californica,(Spach) Nutt.,Especie,Sapindaceae,Árbol|Arbusto
+768,Xylocopa sonorina,38.38075556,-122.7145917,US,Estados Unidos,Agastache,Agastache,Canadá|Estados Unidos,Aceptado,Agastache,J. Clayton ex Gronov.,Género,Lamiaceae,Herbácea
+790,Xylocopa sonorina,37.47001667,-122.3104633,US,Estados Unidos,Agastache,Agastache,Canadá|Estados Unidos,Aceptado,Agastache,J. Clayton ex Gronov.,Género,Lamiaceae,Herbácea
+1041,Xylocopa sonorina,34.1765155,-118.8481756,US,Estados Unidos,Alcea rosea,Alcea rosea,Canadá|Estados Unidos,Aceptado,Alcea rosea,L.,Especie,Malvaceae,Herbácea
+1130,Xylocopa sonorina,37.39046847,-122.0985261,US,Estados Unidos,Allium,Allium,Canadá|Estados Unidos,Aceptado,Allium,L.,Género,Amaryllidaceae,Herbácea
+1151,Xylocopa sonorina,37.56564481,-121.9059558,US,Estados Unidos,Allium,Allium,Canadá|Estados Unidos,Aceptado,Allium,L.,Género,Amaryllidaceae,Herbácea
+1350,Xylocopa sonorina,38.0052241,-121.8338105,US,Estados Unidos,Alstroemeria,Alstroemeria,Estados Unidos,Aceptado,Alstroemeria,L.,Género,Alstroemeriaceae,Herbácea
+1379,Xylocopa sonorina,37.36190171,-121.7956586,US,Estados Unidos,Amaryllidaceae,Amaryllidaceae,España|Estados Unidos,Aceptado,Amaryllidaceae,J. St.-Hil.,Familia,Amaryllidaceae,
+1778,Xylocopa sonorina,37.32083044,-122.0441133,US,Estados Unidos,Angiospermae,Angiospermae,Canadá|Estados Unidos,Aceptado,Angiospermae,,División,,
+1794,Xylocopa sonorina,37.92927804,-121.7008989,US,Estados Unidos,Angiospermae,Angiospermae,Canadá|Estados Unidos,Aceptado,Angiospermae,,División,,
+1798,Xylocopa sonorina,37.21542711,-121.9146644,US,Estados Unidos,Angiospermae,Angiospermae,Canadá|Estados Unidos,Aceptado,Angiospermae,,División,,
+1888,Xylocopa sonorina,37.440012,-122.148225,US,Estados Unidos,Antirrhineae,Antirrhineae,Estados Unidos,Aceptado,Antirrhineae,Dumort.,Tribu,Plantaginaceae,
+1893,Xylocopa sonorina,37.40605333,-122.0968867,US,Estados Unidos,Antirrhinum,Antirrhinum,Canadá|Estados Unidos|India,Aceptado,Antirrhinum,L.,Género,Plantaginaceae,Arbusto|Herbácea
+2069,Xylocopa sonorina,38.4695506,-123.0181529,US,Estados Unidos,Aquilegia,Aquilegia,Canadá|Estados Unidos,Aceptado,Aquilegia,L.,Género,Ranunculaceae,Herbácea
+2098,Xylocopa sonorina,37.2468888,-121.9362997,US,Estados Unidos,Aquilegia coerulea,Aquilegia coerulea,Estados Unidos,Aceptado,Aquilegia coerulea,E. James,Especie,Ranunculaceae,Herbácea
+2309,Xylocopa sonorina,37.65683585,-121.7716106,US,Estados Unidos,Arctostaphylos,Arctostaphylos,Canadá|Estados Unidos,Aceptado,Arctostaphylos,Adans.,Género,Ericaceae,Árbol|Arbusto
+2422,Xylocopa sonorina,38.0524024,-122.2265389,NA,NA,Arctostaphylos manzanita,Arctostaphylos manzanita,Estados Unidos,Aceptado,Arctostaphylos manzanita,Parry,Especie,Ericaceae,Arbusto
+2425,Xylocopa sonorina,38.0524037,-122.2266537,NA,NA,Arctostaphylos manzanita,Arctostaphylos manzanita,Estados Unidos,Aceptado,Arctostaphylos manzanita,Parry,Especie,Ericaceae,Arbusto
+2442,Xylocopa sonorina,38.0524027,-122.2264241,NA,NA,Arctostaphylos manzanita,Arctostaphylos manzanita,Estados Unidos,Aceptado,Arctostaphylos manzanita,Parry,Especie,Ericaceae,Arbusto
+2446,Xylocopa sonorina,38.0524057,-122.226711,NA,NA,Arctostaphylos manzanita,Arctostaphylos manzanita,Estados Unidos,Aceptado,Arctostaphylos manzanita,Parry,Especie,Ericaceae,Arbusto
+2703,Xylocopa sonorina,37.40454,-121.953829,US,Estados Unidos,Asclepias,Asclepias,Estados Unidos,Aceptado,Asclepias,L.,Género,Apocynaceae,Arbusto|Herbácea
+2759,Xylocopa sonorina,38.64537,-121.1996817,US,Estados Unidos,Asclepias cordifolia,Asclepias cordifolia,Estados Unidos,Aceptado,Asclepias cordifolia,(Benth.) Jeps.,Especie,Apocynaceae,Herbácea
+2764,Xylocopa sonorina,37.49873424,-122.0523356,US,Estados Unidos,Asclepias curassavica,Asclepias curassavica,Estados Unidos,Aceptado,Asclepias curassavica,L.,Especie,Apocynaceae,Arbusto|Herbácea
+2772,Xylocopa sonorina,33.67752844,-116.6789694,US,Estados Unidos,Asclepias eriocarpa,Asclepias eriocarpa,Estados Unidos,Aceptado,Asclepias eriocarpa,Benth.,Especie,Apocynaceae,Herbácea
+2781,Xylocopa sonorina,37.403807,-121.954409,US,Estados Unidos,Asclepias fascicularis,Asclepias fascicularis,Estados Unidos,Aceptado,Asclepias fascicularis,Decne.,Especie,Apocynaceae,Herbácea
+2789,Xylocopa sonorina,37.03380833,-121.4294194,US,Estados Unidos,Asclepias fascicularis,Asclepias fascicularis,Estados Unidos,Aceptado,Asclepias fascicularis,Decne.,Especie,Apocynaceae,Herbácea
+2793,Xylocopa sonorina,37.40598889,-121.9554815,US,Estados Unidos,Asclepias fascicularis,Asclepias fascicularis,Estados Unidos,Aceptado,Asclepias fascicularis,Decne.,Especie,Apocynaceae,Herbácea
+2811,Xylocopa sonorina,37.404668,-121.954183,US,Estados Unidos,Asclepias fascicularis,Asclepias fascicularis,Estados Unidos,Aceptado,Asclepias fascicularis,Decne.,Especie,Apocynaceae,Herbácea
+2814,Xylocopa sonorina,37.40681539,-121.955056,US,Estados Unidos,Asclepias fascicularis,Asclepias fascicularis,Estados Unidos,Aceptado,Asclepias fascicularis,Decne.,Especie,Apocynaceae,Herbácea
+2818,Xylocopa sonorina,37.381694,-122.085657,US,Estados Unidos,Asclepias fascicularis,Asclepias fascicularis,Estados Unidos,Aceptado,Asclepias fascicularis,Decne.,Especie,Apocynaceae,Herbácea
+2819,Xylocopa sonorina,37.40454,-121.953829,US,Estados Unidos,Asclepias fascicularis,Asclepias fascicularis,Estados Unidos,Aceptado,Asclepias fascicularis,Decne.,Especie,Apocynaceae,Herbácea
+2997,Xylocopa sonorina,38.726455,-121.235505,US,Estados Unidos,Asclepias speciosa,Asclepias speciosa,Canadá|Estados Unidos,Aceptado,Asclepias speciosa,Torr.,Especie,Apocynaceae,Herbácea
+3014,Xylocopa sonorina,33.8171,-116.5226133,US,Estados Unidos,Asclepias subulata,Asclepias subulata,Estados Unidos,Aceptado,Asclepias subulata,Decne.,Especie,Apocynaceae,Arbusto|Herbácea
+3017,Xylocopa sonorina,33.69968833,-116.3892967,US,Estados Unidos,Asclepias subulata,Asclepias subulata,Estados Unidos,Aceptado,Asclepias subulata,Decne.,Especie,Apocynaceae,Arbusto|Herbácea
+4086,Xylocopa sonorina,37.2726326,-121.9222488,US,Estados Unidos,Asteraceae,Asteraceae,Canadá|Estados Unidos|Grecia|México|Pakistán,Aceptado,Asteraceae,Bercht. & J. Presl,Familia,Asteraceae,
+4196,Xylocopa sonorina,37.32634695,-121.9167281,US,Estados Unidos,Asteroideae,Asteroideae,Canadá|Estados Unidos,Aceptado,Asteroideae,(Cass.) Lindl.,Subfamilia,Asteraceae,
+4702,Xylocopa sonorina,37.4271425,-122.0865266,US,Estados Unidos,Baccharis glutinosa,Baccharis glutinosa,Chile|Estados Unidos,Aceptado,Baccharis glutinosa,Pers.,Especie,Asteraceae,Arbusto
+4704,Xylocopa sonorina,37.42728664,-122.0864636,US,Estados Unidos,Baccharis glutinosa,Baccharis glutinosa,Chile|Estados Unidos,Aceptado,Baccharis glutinosa,Pers.,Especie,Asteraceae,Arbusto
+5177,Xylocopa sonorina,33.78310016,-118.3478599,US,Estados Unidos,Barleria,Barleria,Estados Unidos,Aceptado,Barleria,L.,Género,Acanthaceae,Arbusto|Herbácea
+5320,Xylocopa sonorina,35.13899179,-106.7386605,US,Estados Unidos,Berberis aquifolium,Berberis aquifolium,Canadá|Estados Unidos,Aceptado,Berberis aquifolium,Pursh,Especie,Berberidaceae,Arbusto
+5791,Xylocopa sonorina,37.29865221,-121.8866205,US,Estados Unidos,Borago officinalis,Borago officinalis,Canadá|Estados Unidos|Francia,Aceptado,Borago officinalis,L.,Especie,Boraginaceae,Herbácea
+5795,Xylocopa sonorina,37.40615667,-122.0969833,US,Estados Unidos,Borago officinalis,Borago officinalis,Canadá|Estados Unidos|Francia,Aceptado,Borago officinalis,L.,Especie,Boraginaceae,Herbácea
+5801,Xylocopa sonorina,37.40621,-122.0968067,US,Estados Unidos,Borago officinalis,Borago officinalis,Canadá|Estados Unidos|Francia,Aceptado,Borago officinalis,L.,Especie,Boraginaceae,Herbácea
+5832,Xylocopa sonorina,37.57377625,-122.0495758,US,Estados Unidos,Brassica,Brassica,Canadá|Estados Unidos|México,Aceptado,Brassica,L.,Género,Brassicaceae,Arbusto|Herbácea
+6074,Xylocopa sonorina,38.04751117,-122.1599888,NA,NA,Brassica oleracea,Brassica oleracea,Canadá|Estados Unidos,Aceptado,Brassica oleracea,L.,Especie,Brassicaceae,Arbusto|Herbácea
+6075,Xylocopa sonorina,37.57365803,-122.0495241,US,Estados Unidos,Brassica oleracea,Brassica oleracea,Canadá|Estados Unidos,Aceptado,Brassica oleracea,L.,Especie,Brassicaceae,Arbusto|Herbácea
+6111,Xylocopa sonorina,37.99212151,-122.1383988,US,Estados Unidos,Brassicaceae,Brassicaceae,Canadá|Estados Unidos|México,Aceptado,Brassicaceae,Burnett,Familia,Brassicaceae,
+6112,Xylocopa sonorina,38.63222617,-122.874248,US,Estados Unidos,Brassicaceae,Brassicaceae,Canadá|Estados Unidos|México,Aceptado,Brassicaceae,Burnett,Familia,Brassicaceae,
+6150,Xylocopa sonorina,37.39753667,-121.9414283,US,Estados Unidos,Brassicaceae,Brassicaceae,Canadá|Estados Unidos|México,Aceptado,Brassicaceae,Burnett,Familia,Brassicaceae,
+6174,Xylocopa sonorina,37.86533333,-122.2528333,US,Estados Unidos,Brassicaceae,Brassicaceae,Canadá|Estados Unidos|México,Aceptado,Brassicaceae,Burnett,Familia,Brassicaceae,
+6188,Xylocopa sonorina,37.4400122,-122.1482255,US,Estados Unidos,Brassicaceae,Brassicaceae,Canadá|Estados Unidos|México,Aceptado,Brassicaceae,Burnett,Familia,Brassicaceae,
+6254,Xylocopa sonorina,37.36079783,-121.9835526,US,Estados Unidos,Buddleja davidii,Buddleja davidii,Estados Unidos,Aceptado,Buddleja davidii,Franch.,Especie,Scrophulariaceae,Arbusto
+6270,Xylocopa sonorina,37.21182642,-121.8789961,US,Estados Unidos,Buddleja davidii,Buddleja davidii,Estados Unidos,Aceptado,Buddleja davidii,Franch.,Especie,Scrophulariaceae,Arbusto
+6293,Xylocopa sonorina,37.806035,-122.2585283,US,Estados Unidos,Bulbine frutescens,Bulbine frutescens,Estados Unidos,Aceptado,Bulbine frutescens,(L.) Willd.,Especie,Asphodelaceae,Herbácea
+6310,Xylocopa sonorina,33.733505,-116.3794033,US,Estados Unidos,Cactaceae,Cactaceae,Canadá|Estados Unidos,Aceptado,Cactaceae,Juss.,Familia,Cactaceae,
+6316,Xylocopa sonorina,33.91385,-116.4347217,US,Estados Unidos,Cactaceae,Cactaceae,Canadá|Estados Unidos,Aceptado,Cactaceae,Juss.,Familia,Cactaceae,
+6320,Xylocopa sonorina,NA,NA,NA,NA,NA,Caesalpinia decapetala,NA,NA,NA,NA,NA,NA,NA
+6329,Xylocopa sonorina,34.017145,-118.288663,US,Estados Unidos,Caesalpinioideae,Caesalpinioideae,Estados Unidos,Aceptado,Caesalpinioideae,DC.,Subfamilia,Fabaceae,
+6408,Xylocopa sonorina,37.31478693,-121.997526,US,Estados Unidos,Callianthe,Callianthe,Estados Unidos,Aceptado,Callianthe,Donnell,Género,Malvaceae,Arbusto|Herbácea
+6928,Xylocopa sonorina,37.34222258,-121.8922134,US,Estados Unidos,Capsicum annuum,Capsicum annuum,Estados Unidos,Aceptado,Capsicum annuum,L.,Especie,Solanaceae,Arbusto|Herbácea
+7226,Xylocopa sonorina,37.52546628,-122.2475956,US,Estados Unidos,Carpobrotus,Carpobrotus,España|Estados Unidos,Aceptado,Carpobrotus,N.E.Br.,Género,Aizoaceae,Herbácea
+7300,Xylocopa (Neoxylocopa) sonorina,NA,NA,NA,NA,Cassia,Cassia,Estados Unidos,Aceptado,Cassia,L.,Género,Fabaceae,Árbol|Arbusto
+7568,Xylocopa sonorina,38.053797,-122.2283761,NA,NA,Ceanothus,Ceanothus,Canadá|Estados Unidos,Aceptado,Ceanothus,L.,Género,Rhamnaceae,Árbol|Arbusto
+7841,Xylocopa sonorina,37.42763385,-121.9081556,US,Estados Unidos,Ceanothus,Ceanothus,Canadá|Estados Unidos,Aceptado,Ceanothus,L.,Género,Rhamnaceae,Árbol|Arbusto
+8098,Xylocopa sonorina,37.40356167,-122.071325,US,Estados Unidos,Centaurea cyanus,Centaurea cyanus,Canadá|Estados Unidos,Sinónimo,Cyanus segetum,Hill,Especie,Asteraceae,Herbácea
+8387,Xylocopa sonorina,37.36115333,-121.997155,US,Estados Unidos,Centranthus ruber,Centranthus ruber,Estados Unidos,Aceptado,Centranthus ruber,(L.) DC.,Especie,Caprifoliaceae,Herbácea
+8394,Xylocopa sonorina,37.32889618,-121.877241,US,Estados Unidos,Centranthus ruber,Centranthus ruber,Estados Unidos,Aceptado,Centranthus ruber,(L.) DC.,Especie,Caprifoliaceae,Herbácea
+8496,Xylocopa sonorina,37.40391787,-121.9543003,US,Estados Unidos,Cercis,Cercis,Estados Unidos,Aceptado,Cercis,L.,Género,Fabaceae,Árbol|Arbusto
+8497,Xylocopa sonorina,37.330345,-121.9483333,US,Estados Unidos,Cercis,Cercis,Estados Unidos,Aceptado,Cercis,L.,Género,Fabaceae,Árbol|Arbusto
+8500,Xylocopa sonorina,37.3229978,-122.0321823,US,Estados Unidos,Cercis,Cercis,Estados Unidos,Aceptado,Cercis,L.,Género,Fabaceae,Árbol|Arbusto
+8501,Xylocopa sonorina,37.26197109,-121.9538696,US,Estados Unidos,Cercis,Cercis,Estados Unidos,Aceptado,Cercis,L.,Género,Fabaceae,Árbol|Arbusto
+8522,Xylocopa sonorina,37.34738397,-122.051506,US,Estados Unidos,Cercis occidentalis,Cercis occidentalis,Estados Unidos,Aceptado,Cercis occidentalis,Torr. ex A. Gray,Especie,Fabaceae,Arbusto
+8531,Xylocopa sonorina,38.61062,-122.87178,US,Estados Unidos,Cercis occidentalis,Cercis occidentalis,Estados Unidos,Aceptado,Cercis occidentalis,Torr. ex A. Gray,Especie,Fabaceae,Arbusto
+8533,Xylocopa sonorina,38.0524024,-122.2265389,NA,NA,Cercis occidentalis,Cercis occidentalis,Estados Unidos,Aceptado,Cercis occidentalis,Torr. ex A. Gray,Especie,Fabaceae,Arbusto
+8538,Xylocopa sonorina,33.786169,-116.54148,US,Estados Unidos,Cereus,Cereus,Estados Unidos,Aceptado,Cereus,Mill.,Género,Cactaceae,Árbol|Arbusto
+8539,Xylocopa sonorina,33.7861601,-116.5411182,US,Estados Unidos,Cereus,Cereus,Estados Unidos,Aceptado,Cereus,Mill.,Género,Cactaceae,Árbol|Arbusto
+8540,Xylocopa sonorina,33.7861396,-116.5410642,US,Estados Unidos,Cereus,Cereus,Estados Unidos,Aceptado,Cereus,Mill.,Género,Cactaceae,Árbol|Arbusto
+8942,Xylocopa sonorina,33.720825,-116.3363883,US,Estados Unidos,Chilopsis linearis,Chilopsis linearis,Estados Unidos|México,Aceptado,Chilopsis linearis,(Cav.) Sweet,Especie,Bignoniaceae,Árbol|Arbusto
+8943,Xylocopa sonorina,33.83690433,-116.4038275,US,Estados Unidos,Chilopsis linearis,Chilopsis linearis,Estados Unidos|México,Aceptado,Chilopsis linearis,(Cav.) Sweet,Especie,Bignoniaceae,Árbol|Arbusto
+8944,Xylocopa sonorina,33.98860333,-116.6567083,US,Estados Unidos,Chilopsis linearis,Chilopsis linearis,Estados Unidos|México,Aceptado,Chilopsis linearis,(Cav.) Sweet,Especie,Bignoniaceae,Árbol|Arbusto
+8949,Xylocopa sonorina,35.07393053,-106.4455243,US,Estados Unidos,Chilopsis linearis,Chilopsis linearis,Estados Unidos|México,Aceptado,Chilopsis linearis,(Cav.) Sweet,Especie,Bignoniaceae,Árbol|Arbusto
+8973,Xylocopa sonorina,38.43100333,-122.7531133,US,Estados Unidos,Chlorogalum pomeridianum,Chlorogalum pomeridianum,Estados Unidos,Aceptado,Chlorogalum pomeridianum,(DC.) Kunth,Especie,Asparagaceae,Herbácea
+8987,Xylocopa sonorina,37.25413889,-121.8862889,US,Estados Unidos,Choisya ternata,Choisya ternata,Estados Unidos,Aceptado,Choisya ternata,Kunth,Especie,Rutaceae,Arbusto
+10331,Xylocopa sonorina,37.36190171,-121.7956586,US,Estados Unidos,Cirsium occidentale,Cirsium occidentale,Estados Unidos,Aceptado,Cirsium occidentale ,(Nutt.) Jeps.,Especie,Asteraceae,Herbácea
+10767,Xylocopa sonorina,34.16582296,-118.4959732,US,Estados Unidos,Cistanthe grandiflora,Cistanthe grandiflora,Estados Unidos,Aceptado,Cistanthe grandiflora ,(Lindl.) Schltdl.,Especie,Montiaceae,Herbácea
+10768,Xylocopa sonorina,37.32500833,-121.9332367,US,Estados Unidos,Cistanthe grandiflora,Cistanthe grandiflora,Estados Unidos,Aceptado,Cistanthe grandiflora ,(Lindl.) Schltdl.,Especie,Montiaceae,Herbácea
+10770,Xylocopa sonorina,37.79722878,-122.2208015,US,Estados Unidos,Cistanthe grandiflora,Cistanthe grandiflora,Estados Unidos,Aceptado,Cistanthe grandiflora ,(Lindl.) Schltdl.,Especie,Montiaceae,Herbácea
+10771,Xylocopa sonorina,37.81160046,-122.2551231,US,Estados Unidos,Cistanthe grandiflora,Cistanthe grandiflora,Estados Unidos,Aceptado,Cistanthe grandiflora ,(Lindl.) Schltdl.,Especie,Montiaceae,Herbácea
+10772,Xylocopa sonorina,38.29347167,-122.30842,US,Estados Unidos,Cistanthe grandiflora,Cistanthe grandiflora,Estados Unidos,Aceptado,Cistanthe grandiflora ,(Lindl.) Schltdl.,Especie,Montiaceae,Herbácea
+10778,Xylocopa sonorina,37.38010137,-122.0924015,US,Estados Unidos,Cistus,Cistus,Estados Unidos,Aceptado,Cistus,L.,Género,Cistaceae,Arbusto
+10779,Xylocopa sonorina,37.80289011,-122.2279301,US,Estados Unidos,Cistus,Cistus,Estados Unidos,Aceptado,Cistus,L.,Género,Cistaceae,Arbusto
+10807,Xylocopa sonorina,33.7348311,-116.301672,US,Estados Unidos,Citrus,Citrus,Estados Unidos,Aceptado,Citrus,L.,Género,Rutaceae,Árbol|Arbusto
+10814,Xylocopa sonorina,37.56707833,-122.317445,US,Estados Unidos,Citrus,Citrus,Estados Unidos,Aceptado,Citrus,L.,Género,Rutaceae,Árbol|Arbusto
+10817,Xylocopa sonorina,37.26894367,-121.981637,US,Estados Unidos,Citrus × aurantium,Citrus × aurantium,Estados Unidos,Aceptado,Citrus × aurantium,L.,Híbrido,Rutaceae,Árbol
+10874,Xylocopa sonorina,37.94035833,-122.0682917,US,Estados Unidos,Clarkia unguiculata,Clarkia unguiculata,Estados Unidos,Aceptado,Clarkia unguiculata ,Lindl.,Especie,Onagraceae,Herbácea
+11771,Xylocopa sonorina,32.71830833,-117.2442033,US,Estados Unidos,Coriandrum sativum,Coriandrum sativum,Canadá|Estados Unidos,Aceptado,Coriandrum sativum,L.,Especie,Apiaceae,Herbácea
+11930,Xylocopa sonorina,38.59233301,-122.8511141,US,Estados Unidos,Cosmos atrosanguineus,Cosmos atrosanguineus,Estados Unidos,Aceptado,Cosmos atrosanguineus,(Hook.) Voss,Especie,Asteraceae,Herbácea
+12026,Xylocopa sonorina,37.3711814,-121.8229101,US,Estados Unidos,Cotoneaster,Cotoneaster,Canadá|Estados Unidos,Aceptado,Cotoneaster,Medik.,Especie,Rosaceae,Árbol|Arbusto
+12652,Xylocopa sonorina,37.82587833,-122.249655,US,Estados Unidos,Cucurbitaceae,Cucurbitaceae,Canadá|Estados Unidos,Aceptado,Cucurbitaceae ,Juss.,Familia,Cucurbitaceae,
+12666,Xylocopa sonorina,37.79010332,-121.8940262,US,Estados Unidos,Cucurbitaceae,Cucurbitaceae,Canadá|Estados Unidos,Aceptado,Cucurbitaceae ,Juss.,Familia,Cucurbitaceae,
+12677,Xylocopa sonorina,37.72989107,-122.1437242,US,Estados Unidos,Cuphea,Cuphea,Canadá|Estados Unidos,Aceptado,Cuphea,P. Browne,Género,Lythraceae,Arbusto|Herbácea
+12744,Xylocopa sonorina,37.309611,-121.892233,US,Estados Unidos,Cynara cardunculus,Cynara cardunculus,Estados Unidos,Aceptado,Cynara cardunculus,L.,Especie,Asteraceae,Herbácea
+12871,Xylocopa sonorina,37.372015,-122.092266,US,Estados Unidos,Dahlia pinnata,Dahlia pinnata,Canadá|Estados Unidos,Aceptado,Dahlia pinnata,Cav.,Especie,Asteraceae,Herbácea
+13171,Xylocopa sonorina,38.00021111,-121.7260667,US,Estados Unidos,Datura,Datura,Estados Unidos,Aceptado,Datura,L.,Género,Solanaceae,Arbusto|Herbácea
+13175,Xylocopa sonorina,37.29092412,-121.9088763,US,Estados Unidos,Datura,Datura,Estados Unidos,Aceptado,Datura,L.,Género,Solanaceae,Arbusto|Herbácea
+13188,Xylocopa sonorina,34.0503149,-116.5701231,US,Estados Unidos,Datura wrightii,Datura wrightii,Estados Unidos,Aceptado,Datura wrightii,Regel,Especie,Solanaceae,Arbusto|Herbácea
+13589,Xylocopa sonorina,38.29298,-122.2871467,US,Estados Unidos,Dianthus,Dianthus,Canadá|Estados Unidos,Aceptado,Dianthus,L.,Género,Caryophyllaceae,Herbácea
+13642,Xylocopa sonorina,37.4400122,-122.1482255,US,Estados Unidos,Digitalis,Digitalis,Canadá|Estados Unidos,Aceptado,Digitalis,L.,Género,Plantaginaceae,Arbusto|Herbácea
+13666,Xylocopa sonorina,37.77187792,-122.2670311,US,Estados Unidos,Digitalis purpurea,Digitalis purpurea,Canadá|Estados Unidos|Nueva Zelanda,Aceptado,Digitalis purpurea ,L.,Especie,Plantaginaceae,Herbácea
+13670,Xylocopa sonorina,37.4400122,-122.1482255,US,Estados Unidos,Digitalis purpurea,Digitalis purpurea,Canadá|Estados Unidos|Nueva Zelanda,Aceptado,Digitalis purpurea ,L.,Especie,Plantaginaceae,Herbácea
+13859,Xylocopa sonorina,33.70639038,-116.2666702,US,Estados Unidos,Duranta erecta,Duranta erecta,Estados Unidos|México,Aceptado,Duranta erecta,L.,Especie,Verbenaceae,Arbusto
+13860,Xylocopa sonorina,33.79701667,-116.48217,US,Estados Unidos,Duranta erecta,Duranta erecta,Estados Unidos|México,Aceptado,Duranta erecta,L.,Especie,Verbenaceae,Arbusto
+13861,Xylocopa sonorina,34.17972793,-118.0528093,US,Estados Unidos,Duranta erecta,Duranta erecta,Estados Unidos|México,Aceptado,Duranta erecta,L.,Especie,Verbenaceae,Arbusto
+13868,Xylocopa sonorina,33.72086333,-116.3361367,US,Estados Unidos,Duranta erecta,Duranta erecta,Estados Unidos|México,Aceptado,Duranta erecta,L.,Especie,Verbenaceae,Arbusto
+13870,Xylocopa sonorina,32.718005,-117.2443083,US,Estados Unidos,Duranta erecta,Duranta erecta,Estados Unidos|México,Aceptado,Duranta erecta,L.,Especie,Verbenaceae,Arbusto
+13904,Xylocopa sonorina,38.00019722,-121.72605,US,Estados Unidos,Echeveria,Echeveria,Estados Unidos,Aceptado,Echeveria,DC.,Género,Crassulaceae,Arbusto|Herbácea
+14399,Xylocopa sonorina,37.24567442,-121.8730029,US,Estados Unidos,Echium,Echium,Canadá|España|Estados Unidos|Grecia|Portugal|Turquía,Aceptado,Echium,L.,Género,Boraginaceae,Herbácea
+14409,Xylocopa sonorina,37.34570571,-122.0226081,US,Estados Unidos,Echium,Echium,Canadá|España|Estados Unidos|Grecia|Portugal|Turquía,Aceptado,Echium,L.,Género,Boraginaceae,Herbácea
+14411,Xylocopa sonorina,37.91632,-122.0694667,US,Estados Unidos,Echium,Echium,Canadá|España|Estados Unidos|Grecia|Portugal|Turquía,Aceptado,Echium,L.,Género,Boraginaceae,Herbácea
+14455,Xylocopa sonorina,37.24577967,-121.8730345,US,Estados Unidos,Echium,Echium,Canadá|España|Estados Unidos|Grecia|Portugal|Turquía,Aceptado,Echium,L.,Género,Boraginaceae,Herbácea
+14510,Xylocopa sonorina,37.40604167,-122.0970267,US,Estados Unidos,Echium candicans,Echium candicans,Estados Unidos,Aceptado,Echium candicans,L. f.,Especie,Boraginaceae,Árbol|Arbusto
+14516,Xylocopa sonorina,37.91632,-122.0694667,US,Estados Unidos,Echium candicans,Echium candicans,Estados Unidos,Aceptado,Echium candicans,L. f.,Especie,Boraginaceae,Árbol|Arbusto
+14546,Xylocopa sonorina,37.40602167,-122.09699,US,Estados Unidos,Echium candicans,Echium candicans,Estados Unidos,Aceptado,Echium candicans,L. f.,Especie,Boraginaceae,Árbol|Arbusto
+14554,Xylocopa sonorina,37.40605167,-122.0970017,US,Estados Unidos,Echium candicans,Echium candicans,Estados Unidos,Aceptado,Echium candicans,L. f.,Especie,Boraginaceae,Árbol|Arbusto
+14562,Xylocopa sonorina,37.24617646,-121.8733398,US,Estados Unidos,Echium candicans,Echium candicans,Estados Unidos,Aceptado,Echium candicans,L. f.,Especie,Boraginaceae,Árbol|Arbusto
+14585,Xylocopa sonorina,37.24643234,-121.8731042,US,Estados Unidos,Echium candicans,Echium candicans,Estados Unidos,Aceptado,Echium candicans,L. f.,Especie,Boraginaceae,Árbol|Arbusto
+14594,Xylocopa sonorina,37.24575829,-121.8730073,US,Estados Unidos,Echium candicans,Echium candicans,Estados Unidos,Aceptado,Echium candicans,L. f.,Especie,Boraginaceae,Árbol|Arbusto
+14742,Xylocopa sonorina,37.440415,-122.1484067,US,Estados Unidos,Encelia californica,Encelia californica,Estados Unidos,Aceptado,Encelia californica,Nutt.,Especie,Asteraceae,Arbusto|Herbácea
+14769,Xylocopa sonorina,32.74694826,-117.2348288,US,Estados Unidos,Encelia californica,Encelia californica,Estados Unidos,Aceptado,Encelia californica,Nutt.,Especie,Asteraceae,Arbusto|Herbácea
+14849,Xylocopa sonorina,33.67164167,-116.4085778,US,Estados Unidos,Encelia farinosa,Encelia farinosa,Estados Unidos|México,Aceptado,Encelia farinosa,A.Gray ex Torr.,Especie,Asteraceae,Arbusto|Herbácea
+14898,Xylocopa sonorina,32.91697822,-117.1581516,US,Estados Unidos,Epilobium,Epilobium,Canadá|Estados Unidos,Aceptado,Epilobium,L.,Género,Onagraceae,Arbusto|Herbácea
+14982,Xylocopa sonorina,34.0405251,-116.9411449,US,Estados Unidos,Epilobium canum,Epilobium canum,Estados Unidos,Aceptado,Epilobium canum,(Greene) P.H. Raven,Especie,Onagraceae,Arbusto|Herbácea
+17224,Xylocopa sonorina,37.34110966,-122.0458549,US,Estados Unidos,Escallonia,Escallonia,Estados Unidos,Aceptado,Escallonia,Mutis ex L. f.,Género,Escalloniaceae,Árbol|Arbusto
+17227,Xylocopa sonorina,37.27681667,-121.853225,US,Estados Unidos,Escallonia,Escallonia,Estados Unidos,Aceptado,Escallonia,Mutis ex L. f.,Género,Escalloniaceae,Árbol|Arbusto
+17231,Xylocopa sonorina,37.25349167,-121.9013217,US,Estados Unidos,Escallonia,Escallonia,Estados Unidos,Aceptado,Escallonia,Mutis ex L. f.,Género,Escalloniaceae,Árbol|Arbusto
+17232,Xylocopa sonorina,37.42124667,-122.1139417,US,Estados Unidos,Escallonia,Escallonia,Estados Unidos,Aceptado,Escallonia,Mutis ex L. f.,Género,Escalloniaceae,Árbol|Arbusto
+17236,Xylocopa sonorina,37.77254081,-122.2520699,US,Estados Unidos,Escallonia rubra,Escallonia rubra,Estados Unidos,Aceptado,Escallonia rubra,(Ruiz & Pav.) Pers.,Especie,Escalloniaceae,Arbusto
+17237,Xylocopa sonorina,37.7934138,-122.1952055,US,Estados Unidos,Escallonia rubra,Escallonia rubra,Estados Unidos,Aceptado,Escallonia rubra,(Ruiz & Pav.) Pers.,Especie,Escalloniaceae,Arbusto
+17245,Xylocopa sonorina,37.28930585,-121.9854191,US,Estados Unidos,Escallonia rubra,Escallonia rubra,Estados Unidos,Aceptado,Escallonia rubra,(Ruiz & Pav.) Pers.,Especie,Escalloniaceae,Arbusto
+17941,Xylocopa sonorina,37.386052,-122.083851,US,Estados Unidos,Fabaceae,Fabaceae,Canadá|Costa Rica|Estados Unidos|Grecia|Italia,Aceptado,Fabaceae,Lindl.,Familia,Fabaceae,
+17957,Xylocopa sonorina,37.74834463,-121.9230626,US,Estados Unidos,Fabaceae,Fabaceae,Canadá|Costa Rica|Estados Unidos|Grecia|Italia,Aceptado,Fabaceae,Lindl.,Familia,Fabaceae,
+17961,Xylocopa sonorina,37.21573833,-121.8796167,US,Estados Unidos,Fabaceae,Fabaceae,Canadá|Costa Rica|Estados Unidos|Grecia|Italia,Aceptado,Fabaceae,Lindl.,Familia,Fabaceae,
+17985,Xylocopa sonorina,37.92397,-122.0363945,US,Estados Unidos,Fabales,Fabales,Estados Unidos,Aceptado,Fabales,Bromhead,Orden,,
+18075,Xylocopa sonorina,37.42039169,-122.0169002,US,Estados Unidos,Foeniculum vulgare,Foeniculum vulgare,Estados Unidos,Aceptado,Foeniculum vulgare,Mill.,Especie,Apiaceae,Herbácea
+18265,Xylocopa sonorina,38.02100283,-121.90718,US,Estados Unidos,Fraxinus latifolia,Fraxinus latifolia,Estados Unidos,Aceptado,Fraxinus latifolia,Benth.,Especie,Oleaceae,Árbol
+18291,Xylocopa sonorina,33.73401197,-116.5374544,US,Estados Unidos,Funastrum hirtellum,Funastrum hirtellum,Estados Unidos,Aceptado,Funastrum hirtellum,(A. Gray) Schltr.,Especie,Apocynaceae,Arbusto|Herbácea
+18303,Xylocopa sonorina,38.172698,-122.2545254,US,Estados Unidos,Gaillardia,Gaillardia,Canadá|Estados Unidos,Aceptado,Gaillardia,Foug.,Género,Asteraceae,Herbácea
+18440,Xylocopa sonorina,37.38657006,-122.0772329,US,Estados Unidos,Gaillardia,Gaillardia,Canadá|Estados Unidos,Aceptado,Gaillardia,Foug.,Género,Asteraceae,Herbácea
+18612,Xylocopa sonorina,33.48210498,-112.3036086,US,Estados Unidos,Gaillardia pulchella,Gaillardia pulchella,Estados Unidos|México,Aceptado,Gaillardia pulchella,Foug.,Especie,Asteraceae,Herbácea
+19206,Xylocopa sonorina,37.386052,-122.083851,US,Estados Unidos,Glandularia lilacina,Glandularia lilacina,Estados Unidos,Aceptado,Glandularia lilacina,(Greene) Umber,Especie,Verbenaceae,Arbusto|Herbácea
+19552,Xylocopa varipuncta,38.39672,-121.58899,US,Estados Unidos,Grindelia hirsutula,Grindelia hirsutula,Estados Unidos,Aceptado,Grindelia hirsutula,Hook. & Arn.,Especie,Asteraceae,Herbácea
+20075,Xylocopa sonorina,37.4714944,-122.2240431,US,Estados Unidos,Hebe,Hebe,Estados Unidos,Sinónimo,Veronica,L.,Género,Plantaginaceae,Herbácea
+20129,Xylocopa sonorina,37.386052,-122.083851,US,Estados Unidos,Helenieae,Helenieae,Estados Unidos,Aceptado,Helenieae,Lindl.,Tribu,Asteraceae,
+20386,Xylocopa varipuncta,31.34444,-109.52779,US,Estados Unidos,Helianthus,Helianthus,Canadá|Estados Unidos|India|México,Aceptado,Helianthus,L.,Género,Asteraceae,Herbácea
+22013,Xylocopa sonorina,37.89405,-122.0645305,US,Estados Unidos,Hemerocallis,Hemerocallis,Canadá|Estados Unidos,Aceptado,Hemerocallis,L.,Género,Asphodelaceae,Herbácea
+22014,Xylocopa sonorina,37.40269667,-122.1011417,US,Estados Unidos,Hemerocallis lilioasphodelus,Hemerocallis lilioasphodelus,Estados Unidos,Aceptado,Hemerocallis lilioasphodelus,L.,Especie,Asphodelaceae,Herbácea
+22707,Xylocopa sonorina,33.97051333,-117.9380017,US,Estados Unidos,Hirschfeldia incana,Hirschfeldia incana,Estados Unidos,Aceptado,Hirschfeldia incana,(L.) Lagr.-Fossat,Especie,Brassicaceae,Herbácea
+23520,Xylocopa sonorina,37.87623333,-122.2676867,US,Estados Unidos,Ipomoea,Ipomoea,Argentina|Costa Rica|Estados Unidos|Guatemala|México,Aceptado,Ipomoea,L.,Género,Convolvulaceae,Arbusto|Herbácea|Trepador
+23536,Xylocopa sonorina,37.95362375,-122.0472207,US,Estados Unidos,Ipomoea,Ipomoea,Argentina|Costa Rica|Estados Unidos|Guatemala|México,Aceptado,Ipomoea,L.,Género,Convolvulaceae,Arbusto|Herbácea|Trepador
+23612,Xylocopa sonorina,37.97656579,-122.5669291,US,Estados Unidos,Iris,Iris,Canadá|Estados Unidos,Aceptado,Iris,L.,Género,Iridaceae,Herbácea
+23613,Xylocopa sonorina,37.2482763,-121.9363005,US,Estados Unidos,Iris,Iris,Canadá|Estados Unidos,Aceptado,Iris,L.,Género,Iridaceae,Herbácea
+23621,Xylocopa sonorina,37.8193591,-122.2726643,US,Estados Unidos,Iris,Iris,Canadá|Estados Unidos,Aceptado,Iris,L.,Género,Iridaceae,Herbácea
+23628,Xylocopa sonorina,37.6687665,-122.0809964,US,Estados Unidos,Iris,Iris,Canadá|Estados Unidos,Aceptado,Iris,L.,Género,Iridaceae,Herbácea
+23633,Xylocopa sonorina,37.2468888,-121.9362997,US,Estados Unidos,NA,Iris × germanica,NA,NA,NA,NA,NA,NA,NA
+23650,Xylocopa sonorina,37.24795176,-121.9364722,US,Estados Unidos,Iris pseudacorus,Iris pseudacorus,Canadá|Estados Unidos,Aceptado,Iris pseudacorus,L.,Especie,Iridaceae,Herbácea
+23727,Xylocopa sonorina,37.31476515,-121.9975007,US,Estados Unidos,Jacaranda,Jacaranda,Estados Unidos,Aceptado,Jacaranda ,Juss.,Género,Bignoniaceae,Árbol|Arbusto
+23766,Xylocopa sonorina,32.886753,-97.282958,US,Estados Unidos,Justicia americana,Justicia americana,Estados Unidos,Aceptado,Justicia americana,(L.) Vahl,Especie,Acanthaceae,Herbácea
+23873,Xylocopa sonorina,38.52995333,-121.7629133,US,Estados Unidos,Knautia arvensis,Knautia arvensis,Estados Unidos|Reino Unido,Aceptado,Knautia arvensis,(L.) Coult.,Especie,Caprifoliaceae,Herbácea
+23878,Xylocopa sonorina,38.53166667,-121.7611111,US,Estados Unidos,Kniphofia rooperi,Kniphofia rooperi,Estados Unidos,Aceptado,Kniphofia rooperi ,(T. Moore) Lem.,Especie,Asphodelaceae,Herbácea
+23882,Xylocopa sonorina,37.66014264,-121.874207,US,Estados Unidos,Koelreuteria paniculata,Koelreuteria paniculata,Estados Unidos,Aceptado,Koelreuteria paniculata,Laxm.,Especie,Sapindaceae,Árbol
+24069,Xylocopa sonorina,37.92378667,-122.036125,US,Estados Unidos,Lamiaceae,Lamiaceae,Canadá|Costa Rica|España|Estados Unidos|Francia|Grecia|México|Portugal,Aceptado,Lamiaceae,Martinov,Familia,Lamiaceae,
+24097,Xylocopa sonorina,37.68262833,-121.7973783,US,Estados Unidos,Lamiaceae,Lamiaceae,Canadá|Costa Rica|España|Estados Unidos|Francia|Grecia|México|Portugal,Aceptado,Lamiaceae,Martinov,Familia,Lamiaceae,
+24106,Xylocopa sonorina,37.79117167,-122.1869417,US,Estados Unidos,Lamiaceae,Lamiaceae,Canadá|Costa Rica|España|Estados Unidos|Francia|Grecia|México|Portugal,Aceptado,Lamiaceae,Martinov,Familia,Lamiaceae,
+24115,Xylocopa sonorina,37.38765422,-121.9657726,US,Estados Unidos,Lamiaceae,Lamiaceae,Canadá|Costa Rica|España|Estados Unidos|Francia|Grecia|México|Portugal,Aceptado,Lamiaceae,Martinov,Familia,Lamiaceae,
+24155,Xylocopa sonorina,37.31640645,-122.0425004,US,Estados Unidos,Lamiales,Lamiales,Estados Unidos|México,Aceptado,Lamiales,Bromhead,Orden,,
+24158,Xylocopa sonorina,38.25168333,-121.9825533,US,Estados Unidos,Lamiales,Lamiales,Estados Unidos|México,Aceptado,Lamiales,Bromhead,Orden,,
+24159,Xylocopa sonorina,37.88753,-122.0834195,US,Estados Unidos,Lamiales,Lamiales,Estados Unidos|México,Aceptado,Lamiales,Bromhead,Orden,,
+24209,Xylocopa sonorina,37.31371557,-121.7677944,US,Estados Unidos,Lantana,Lantana,España|Estados Unidos|Grecia,Aceptado,Lantana ,L.,Género,Verbenaceae,Arbusto|Herbácea
+24223,Xylocopa sonorina,38.0550938,-122.2309527,NA,NA,Lantana,Lantana,España|Estados Unidos|Grecia,Aceptado,Lantana ,L.,Género,Verbenaceae,Arbusto|Herbácea
+24224,Xylocopa sonorina,37.99779164,-121.6919718,US,Estados Unidos,Lantana,Lantana,España|Estados Unidos|Grecia,Aceptado,Lantana ,L.,Género,Verbenaceae,Arbusto|Herbácea
+24229,Xylocopa sonorina,38.0529335,-122.2242177,NA,NA,Lantana camara,Lantana camara,Estados Unidos|México,Aceptado,Lantana camara,L.,Especie,Verbenaceae,Arbusto
+24254,Xylocopa sonorina,37.330045,-121.9426583,US,Estados Unidos,Lantana camara,Lantana camara,Estados Unidos|México,Aceptado,Lantana camara,L.,Especie,Verbenaceae,Arbusto
+24258,Xylocopa sonorina,38.251725,-121.9825667,US,Estados Unidos,Lantana montevidensis,Lantana montevidensis,Estados Unidos,Aceptado,Lantana montevidensis,(Spreng.) Briq.,Especie,Verbenaceae,Arbusto
+24259,Xylocopa sonorina,37.570305,-122.03605,US,Estados Unidos,Lantana montevidensis,Lantana montevidensis,Estados Unidos,Aceptado,Lantana montevidensis,(Spreng.) Briq.,Especie,Verbenaceae,Arbusto
+24261,Xylocopa sonorina,37.45285278,-122.1474694,US,Estados Unidos,Lantana montevidensis,Lantana montevidensis,Estados Unidos,Aceptado,Lantana montevidensis,(Spreng.) Briq.,Especie,Verbenaceae,Arbusto
+24262,Xylocopa sonorina,37.32763333,-121.9443667,US,Estados Unidos,Lantana montevidensis,Lantana montevidensis,Estados Unidos,Aceptado,Lantana montevidensis,(Spreng.) Briq.,Especie,Verbenaceae,Arbusto
+24263,Xylocopa sonorina,38.0535267,-122.2243727,NA,NA,Lantana montevidensis,Lantana montevidensis,Estados Unidos,Aceptado,Lantana montevidensis,(Spreng.) Briq.,Especie,Verbenaceae,Arbusto
+24287,Xylocopa varipuncta,33.8813,-113.545,US,Estados Unidos,Larrea tridentata,Larrea tridentata,Argentina|Estados Unidos|México,Aceptado,Larrea tridentata,(DC.) Coville,Especie,Zygophyllaceae,Arbusto
+24347,Xylocopa sonorina,34.00902,-116.6233,US,Estados Unidos,Larrea tridentata,Larrea tridentata,Argentina|Estados Unidos|México,Aceptado,Larrea tridentata,(DC.) Coville,Especie,Zygophyllaceae,Arbusto
+24360,Xylocopa varipuncta,32.06666667,-110.2833333,US,Estados Unidos,Larrea tridentata,Larrea tridentata,Argentina|Estados Unidos|México,Aceptado,Larrea tridentata,(DC.) Coville,Especie,Zygophyllaceae,Arbusto
+24378,Xylocopa sonorina,34.13138738,-116.1562717,US,Estados Unidos,Larrea tridentata,Larrea tridentata,Argentina|Estados Unidos|México,Aceptado,Larrea tridentata,(DC.) Coville,Especie,Zygophyllaceae,Arbusto
+24381,Xylocopa sonorina,33.77376944,-116.3127583,US,Estados Unidos,Larrea tridentata,Larrea tridentata,Argentina|Estados Unidos|México,Aceptado,Larrea tridentata,(DC.) Coville,Especie,Zygophyllaceae,Arbusto
+24407,Xylocopa sonorina,33.69821667,-116.2681417,US,Estados Unidos,Larrea tridentata,Larrea tridentata,Argentina|Estados Unidos|México,Aceptado,Larrea tridentata,(DC.) Coville,Especie,Zygophyllaceae,Arbusto
+24444,Xylocopa sonorina,37.44017189,-122.1484923,US,Estados Unidos,Lathyrus,Lathyrus,Argentina|Estados Unidos,Aceptado,Lathyrus,L.,Género,Fabaceae,Herbácea|Trepador
+24450,Xylocopa sonorina,37.25390806,-122.0598008,US,Estados Unidos,Lathyrus,Lathyrus,Argentina|Estados Unidos,Aceptado,Lathyrus,L.,Género,Fabaceae,Herbácea|Trepador
+24453,Xylocopa sonorina,34.26223,-116.898925,US,Estados Unidos,Lathyrus,Lathyrus,Argentina|Estados Unidos,Aceptado,Lathyrus,L.,Género,Fabaceae,Herbácea|Trepador
+24458,Xylocopa sonorina,37.44020086,-122.1482357,US,Estados Unidos,Lathyrus,Lathyrus,Argentina|Estados Unidos,Aceptado,Lathyrus,L.,Género,Fabaceae,Herbácea|Trepador
+24459,Xylocopa sonorina,37.2303075,-121.9508228,US,Estados Unidos,Lathyrus,Lathyrus,Argentina|Estados Unidos,Aceptado,Lathyrus,L.,Género,Fabaceae,Herbácea|Trepador
+24460,Xylocopa sonorina,37.4400122,-122.1482255,US,Estados Unidos,Lathyrus,Lathyrus,Argentina|Estados Unidos,Aceptado,Lathyrus,L.,Género,Fabaceae,Herbácea|Trepador
+24509,Xylocopa sonorina,35.09050833,-106.6099867,US,Estados Unidos,Lathyrus latifolius,Lathyrus latifolius,Canadá|Estados Unidos,Aceptado,Lathyrus latifolius,L.,Especie,Fabaceae,Trepador
+24528,Xylocopa sonorina,37.43002367,-122.2538558,US,Estados Unidos,Lathyrus odoratus,Lathyrus odoratus,Estados Unidos,Aceptado,Lathyrus odoratus,L.,Especie,Fabaceae,Herbácea|Trepador
+24531,Xylocopa sonorina,37.68425483,-121.9131097,US,Estados Unidos,Lathyrus odoratus,Lathyrus odoratus,Estados Unidos,Aceptado,Lathyrus odoratus,L.,Especie,Fabaceae,Herbácea|Trepador
+24532,Xylocopa sonorina,37.32910496,-121.9381228,US,Estados Unidos,Lathyrus odoratus,Lathyrus odoratus,Estados Unidos,Aceptado,Lathyrus odoratus,L.,Especie,Fabaceae,Herbácea|Trepador
+24533,Xylocopa sonorina,37.58336667,-122.3725367,US,Estados Unidos,Lathyrus odoratus,Lathyrus odoratus,Estados Unidos,Aceptado,Lathyrus odoratus,L.,Especie,Fabaceae,Herbácea|Trepador
+24540,Xylocopa sonorina,37.566644,-122.3144491,US,Estados Unidos,Lathyrus odoratus,Lathyrus odoratus,Estados Unidos,Aceptado,Lathyrus odoratus,L.,Especie,Fabaceae,Herbácea|Trepador
+24585,Xylocopa sonorina,37.23728112,-121.8396218,US,Estados Unidos,Lavandula,Lavandula,Canadá|España|Estados Unidos|Italia|Portugal,Aceptado,Lavandula,L.,Género,Lamiaceae,Arbusto|Herbácea
+24663,Xylocopa sonorina,38.00459722,-121.8336333,US,Estados Unidos,Lavandula,Lavandula,Canadá|España|Estados Unidos|Italia|Portugal,Aceptado,Lavandula,L.,Género,Lamiaceae,Arbusto|Herbácea
+24678,Xylocopa sonorina,37.3496418,-121.9389875,US,Estados Unidos,Lavandula,Lavandula,Canadá|España|Estados Unidos|Italia|Portugal,Aceptado,Lavandula,L.,Género,Lamiaceae,Arbusto|Herbácea
+24704,Xylocopa sonorina,37.97547982,-122.5677431,US,Estados Unidos,Lavandula,Lavandula,Canadá|España|Estados Unidos|Italia|Portugal,Aceptado,Lavandula,L.,Género,Lamiaceae,Arbusto|Herbácea
+24718,Xylocopa sonorina,37.53854706,-121.8862142,US,Estados Unidos,Lavandula,Lavandula,Canadá|España|Estados Unidos|Italia|Portugal,Aceptado,Lavandula,L.,Género,Lamiaceae,Arbusto|Herbácea
+24723,Xylocopa sonorina,37.33310343,-121.8826639,US,Estados Unidos,Lavandula,Lavandula,Canadá|España|Estados Unidos|Italia|Portugal,Aceptado,Lavandula,L.,Género,Lamiaceae,Arbusto|Herbácea
+25213,Xylocopa sonorina,37.89927112,-122.0567039,US,Estados Unidos,Leucophyllum frutescens,Leucophyllum frutescens,Estados Unidos,Aceptado,Leucophyllum frutescens,(Berland.) I.M. Johnst.,Especie,Scrophulariaceae,Arbusto
+25434,Xylocopa sonorina,37.94175424,-122.0182814,US,Estados Unidos,Ligustrum,Ligustrum,Estados Unidos,Aceptado,Ligustrum,L.,Género,Oleaceae,Árbol|Arbusto
+25462,Xylocopa sonorina,37.23593223,-121.9271611,US,Estados Unidos,Lilium,Lilium,Estados Unidos,Aceptado,Lilium,L.,Género,Liliaceae,Herbácea
+25496,Xylocopa sonorina,37.24812796,-121.8733955,US,Estados Unidos,Limonium,Limonium,Estados Unidos,Aceptado,Limonium,Mill.,Género,Plumbaginaceae,Arbusto|Herbácea
+25510,Xylocopa sonorina,32.53648,-117.12135,US,Estados Unidos,Limonium perezii,Limonium perezii,Estados Unidos,Aceptado,Limonium perezii ,(Stapf) F.T. Hubb.,Especie,Plumbaginaceae,Herbácea
+25735,Xylocopa sonorina,38.333225,-122.6907417,US,Estados Unidos,Lobelia erinus,Lobelia erinus,Canadá|Estados Unidos,Aceptado,Lobelia erinus,L.,Especie,Campanulaceae,Herbácea
+25838,Xylocopa sonorina,37.39449339,-122.0908766,US,Estados Unidos,Lonicera japonica,Lonicera japonica,Estados Unidos,Aceptado,Lonicera japonica,Thunb.,Especie,Caprifoliaceae,Arbusto|Bejuco
+25842,Xylocopa sonorina,32.886482,-97.281269,US,Estados Unidos,Lonicera japonica,Lonicera japonica,Estados Unidos,Aceptado,Lonicera japonica,Thunb.,Especie,Caprifoliaceae,Arbusto|Bejuco
+26471,Xylocopa sonorina,32.88151,-97.298396,US,Estados Unidos,Lupinus,Lupinus,Canadá|Estados Unidos|México,Aceptado,Lupinus,L.,Género,Fabaceae,Arbusto|Herbácea
+26613,Xylocopa sonorina,37.288645,-121.950395,US,Estados Unidos,Lupinus,Lupinus,Canadá|Estados Unidos|México,Aceptado,Lupinus,L.,Género,Fabaceae,Arbusto|Herbácea
+26682,Xylocopa sonorina,33.99838196,-118.3867127,US,Estados Unidos,Lupinus albifrons,Lupinus albifrons,Estados Unidos,Aceptado,Lupinus albifrons,Benth.,Especie,Fabaceae,Arbusto|Herbácea
+26993,Xylocopa sonorina,32.74523966,-117.2394822,US,Estados Unidos,Lupinus succulentus,Lupinus succulentus,Estados Unidos,Aceptado,Lupinus succulentus,Douglas ex K. Koch,Especie,Fabaceae,Herbácea
+27003,Xylocopa sonorina,34.13707165,-118.1348293,US,Estados Unidos,Lupinus succulentus,Lupinus succulentus,Estados Unidos,Aceptado,Lupinus succulentus,Douglas ex K. Koch,Especie,Fabaceae,Herbácea
+27004,Xylocopa sonorina,32.7439402,-117.2422288,US,Estados Unidos,Lupinus succulentus,Lupinus succulentus,Estados Unidos,Aceptado,Lupinus succulentus,Douglas ex K. Koch,Especie,Fabaceae,Herbácea
+27015,Xylocopa sonorina,37.50071048,-122.3013022,US,Estados Unidos,Lycianthes rantonnetii,Lycianthes rantonnetii,Estados Unidos,Aceptado,Lycianthes rantonnetii,(Carrière) Bitter,Especie,Solanaceae,Árbol|Arbusto
+27016,Xylocopa sonorina,37.9610389,-121.7220493,US,Estados Unidos,Lycianthes rantonnetii,Lycianthes rantonnetii,Estados Unidos,Aceptado,Lycianthes rantonnetii,(Carrière) Bitter,Especie,Solanaceae,Árbol|Arbusto
+27297,Xylocopa sonorina,32.131541,-111.086605,US,Estados Unidos,Magnoliopsida,Magnoliopsida,Canadá|Estados Unidos,Aceptado,Magnoliopsida,Brongn.,Clase,,
+27308,Xylocopa sonorina,37.297947,-121.927836,US,Estados Unidos,Magnoliopsida,Magnoliopsida,Canadá|Estados Unidos,Aceptado,Magnoliopsida,Brongn.,Clase,,
+27318,Xylocopa sonorina,37.32651421,-121.8915403,US,Estados Unidos,Magnoliopsida,Magnoliopsida,Canadá|Estados Unidos,Aceptado,Magnoliopsida,Brongn.,Clase,,
+27562,Xylocopa sonorina,37.74626902,-122.253256,NA,NA,Malus,Malus,Canadá|Estados Unidos,Aceptado,Malus,Mill.,Género,Rosaceae,Árbol|Arbusto
+27621,Xylocopa sonorina,37.492875,-122.177545,US,Estados Unidos,Malva,Malva,Estados Unidos|Francia|Grecia,Aceptado,Malva,L.,Género,Malvaceae,Arbusto|Herbácea
+27635,Xylocopa sonorina,37.95270951,-122.0730228,US,Estados Unidos,Malva assurgentiflora,Malva assurgentiflora,Estados Unidos,Aceptado,Malva assurgentiflora,(Kellogg) M.F. Ray,Especie,Malvaceae,Arbusto
+28014,Xylocopa sonorina,38.33964812,-121.9581762,US,Estados Unidos,Melaleuca,Melaleuca,Estados Unidos,Aceptado,Melaleuca,L.,Género,Myrtaceae,Árbol|Arbusto
+29006,Xylocopa sonorina,37.43939479,-121.9601727,US,Estados Unidos,Mentheae,Mentheae,Estados Unidos,Aceptado,Mentheae,"Harley, et al., S. Atkins, P.D. Cantino & M.M.Harley",Tribu,Lamiaceae,
+29597,Xylocopa sonorina,38.0519729,-122.226984,NA,NA,Monarda fistulosa,Monarda fistulosa,Canadá|Estados Unidos,Aceptado,Monarda fistulosa,L.,Especie,Lamiaceae,Herbácea
+29763,Xylocopa sonorina,37.95443117,-121.9163915,US,Estados Unidos,Monardella,Monardella,Estados Unidos,Aceptado,Monardella,Benth.,Género,Lamiaceae,Herbácea
+29882,Xylocopa sonorina,19.67620371,-156.0208465,NA,NA,NA,Morinda citrifolia,NA,NA,NA,NA,NA,NA,NA
+29941,Xylocopa sonorina,33.93018667,-116.4400417,US,Estados Unidos,Myrtillocactus,Myrtillocactus,Estados Unidos,Aceptado,Myrtillocactus,Console,Género,Cactaceae,Arbusto|Herbácea
+30058,Xylocopa sonorina,37.33997,-121.8758617,US,Estados Unidos,Nepeta,Nepeta,Canadá|Estados Unidos,Aceptado,Nepeta,L.,Género,Lamiaceae,Herbácea
+30065,Xylocopa sonorina,38.51558891,-122.7530735,US,Estados Unidos,Nepeta × faassenii,Nepeta × faassenii,Estados Unidos,Aceptado,Nepeta × faassenii,Bergmans ex Stearn,Híbrido,Lamiaceae,Herbácea
+30096,Xylocopa sonorina,32.55317,-117.0806583,US,Estados Unidos,Nepeta cataria,Nepeta cataria,Canadá|Estados Unidos,Aceptado,Nepeta cataria,L.,Especie,Lamiaceae,Herbácea
+30137,Xylocopa sonorina,38.50642833,-122.7723617,US,Estados Unidos,Nicotiana,Nicotiana,Estados Unidos,Aceptado,Nicotiana,L.,Género,Solanaceae,Arbusto|Herbácea
+30365,Xylocopa sonorina,37.27927833,-121.9487617,US,Estados Unidos,Ocimum,Ocimum,Alemania|Estados Unidos,Aceptado,Ocimum,L.,Género,Lamiaceae,Arbusto|Herbácea
+30383,Xylocopa sonorina,38.372805,-122.0017083,US,Estados Unidos,Ocimum basilicum,Ocimum basilicum,Estados Unidos|India,Aceptado,Ocimum basilicum,L.,Especie,Lamiaceae,Herbácea
+30506,Xylocopa sonorina,32.7578203,-117.053177,US,Estados Unidos,Oenothera speciosa,Oenothera speciosa,Estados Unidos,Aceptado,Oenothera speciosa,Nutt.,Especie,Onagraceae,Herbácea
+31222,Xylocopa sonorina,37.76772082,-122.2754615,NA,NA,Oxalis pes-caprae,Oxalis pes-caprae,España|Estados Unidos|Grecia,Aceptado,Oxalis pes-caprae,L.,Especie,Oxalidaceae,Herbácea
+31592,Xylocopa sonorina,37.23853,-121.872245,US,Estados Unidos,Parkinsonia,Parkinsonia,Estados Unidos,Aceptado,Parkinsonia,L.,Género,Fabaceae,Árbol|Arbusto
+31593,Xylocopa sonorina,33.65943056,-116.2496944,US,Estados Unidos,Parkinsonia,Parkinsonia,Estados Unidos,Aceptado,Parkinsonia,L.,Género,Fabaceae,Árbol|Arbusto
+31594,Xylocopa sonorina,34.017145,-118.288663,US,Estados Unidos,Parkinsonia,Parkinsonia,Estados Unidos,Aceptado,Parkinsonia,L.,Género,Fabaceae,Árbol|Arbusto
+31595,Xylocopa sonorina,34.01767667,-118.2883817,US,Estados Unidos,Parkinsonia,Parkinsonia,Estados Unidos,Aceptado,Parkinsonia,L.,Género,Fabaceae,Árbol|Arbusto
+31599,Xylocopa sonorina,37.92315333,-122.0357888,US,Estados Unidos,Parkinsonia,Parkinsonia,Estados Unidos,Aceptado,Parkinsonia,L.,Género,Fabaceae,Árbol|Arbusto
+31600,Xylocopa sonorina,37.889105,-122.0364138,US,Estados Unidos,Parkinsonia,Parkinsonia,Estados Unidos,Aceptado,Parkinsonia,L.,Género,Fabaceae,Árbol|Arbusto
+31601,Xylocopa sonorina,37.92302222,-122.036125,US,Estados Unidos,Parkinsonia,Parkinsonia,Estados Unidos,Aceptado,Parkinsonia,L.,Género,Fabaceae,Árbol|Arbusto
+31603,Xylocopa sonorina,38.4445394,-121.8819757,US,Estados Unidos,Parkinsonia aculeata,Parkinsonia aculeata,Estados Unidos,Aceptado,Parkinsonia aculeata,L.,Especie,Fabaceae,Árbol|Arbusto
+31605,Xylocopa sonorina,32.78599255,-117.0390342,US,Estados Unidos,Parkinsonia aculeata,Parkinsonia aculeata,Estados Unidos,Aceptado,Parkinsonia aculeata,L.,Especie,Fabaceae,Árbol|Arbusto
+31607,Xylocopa sonorina,32.78597674,-117.0390127,US,Estados Unidos,Parkinsonia aculeata,Parkinsonia aculeata,Estados Unidos,Aceptado,Parkinsonia aculeata,L.,Especie,Fabaceae,Árbol|Arbusto
+31610,Xylocopa sonorina,32.78597709,-117.0390117,US,Estados Unidos,Parkinsonia aculeata,Parkinsonia aculeata,Estados Unidos,Aceptado,Parkinsonia aculeata,L.,Especie,Fabaceae,Árbol|Arbusto
+31611,Xylocopa sonorina,33.780615,-116.4095617,US,Estados Unidos,Parkinsonia aculeata,Parkinsonia aculeata,Estados Unidos,Aceptado,Parkinsonia aculeata,L.,Especie,Fabaceae,Árbol|Arbusto
+31613,Xylocopa sonorina,33.29023055,-116.9678317,US,Estados Unidos,Parkinsonia aculeata,Parkinsonia aculeata,Estados Unidos,Aceptado,Parkinsonia aculeata,L.,Especie,Fabaceae,Árbol|Arbusto
+31615,Xylocopa sonorina,32.78599266,-117.0389794,US,Estados Unidos,Parkinsonia aculeata,Parkinsonia aculeata,Estados Unidos,Aceptado,Parkinsonia aculeata,L.,Especie,Fabaceae,Árbol|Arbusto
+31616,Xylocopa sonorina,33.67218333,-116.2558067,US,Estados Unidos,Parkinsonia aculeata,Parkinsonia aculeata,Estados Unidos,Aceptado,Parkinsonia aculeata,L.,Especie,Fabaceae,Árbol|Arbusto
+31617,Xylocopa sonorina,33.72516944,-116.3625111,US,Estados Unidos,Parkinsonia aculeata,Parkinsonia aculeata,Estados Unidos,Aceptado,Parkinsonia aculeata,L.,Especie,Fabaceae,Árbol|Arbusto
+31623,Xylocopa sonorina,33.78045333,-116.409325,US,Estados Unidos,Parkinsonia aculeata,Parkinsonia aculeata,Estados Unidos,Aceptado,Parkinsonia aculeata,L.,Especie,Fabaceae,Árbol|Arbusto
+31624,Xylocopa sonorina,33.34040518,-117.0134657,US,Estados Unidos,Parkinsonia aculeata,Parkinsonia aculeata,Estados Unidos,Aceptado,Parkinsonia aculeata,L.,Especie,Fabaceae,Árbol|Arbusto
+31625,Xylocopa sonorina,33.95832679,-116.3537026,US,Estados Unidos,Parkinsonia aculeata,Parkinsonia aculeata,Estados Unidos,Aceptado,Parkinsonia aculeata,L.,Especie,Fabaceae,Árbol|Arbusto
+31631,Xylocopa sonorina,33.2596085,-116.3766212,US,Estados Unidos,Parkinsonia florida,Parkinsonia florida,Estados Unidos,Aceptado,Parkinsonia florida,(Benth. ex A. Gray) S. Watson,Especie,Fabaceae,Árbol
+31632,Xylocopa sonorina,33.76193654,-116.3616937,US,Estados Unidos,Parkinsonia florida,Parkinsonia florida,Estados Unidos,Aceptado,Parkinsonia florida,(Benth. ex A. Gray) S. Watson,Especie,Fabaceae,Árbol
+31635,Xylocopa sonorina,34.1355582,-116.0541689,US,Estados Unidos,Parkinsonia florida,Parkinsonia florida,Estados Unidos,Aceptado,Parkinsonia florida,(Benth. ex A. Gray) S. Watson,Especie,Fabaceae,Árbol
+31666,Xylocopa sonorina,37.28769855,-121.983075,US,Estados Unidos,Passiflora,Passiflora,Estados Unidos,Aceptado,Passiflora,L.,Género,Passifloraceae,Herbácea|Trepador
+31667,Xylocopa sonorina,37.4655726,-122.1506229,US,Estados Unidos,Passiflora,Passiflora,Estados Unidos,Aceptado,Passiflora,L.,Género,Passifloraceae,Herbácea|Trepador
+31669,Xylocopa sonorina,37.26127577,-121.8459379,US,Estados Unidos,Passiflora,Passiflora,Estados Unidos,Aceptado,Passiflora,L.,Género,Passifloraceae,Herbácea|Trepador
+31670,Xylocopa sonorina,37.34273833,-122.0551862,US,Estados Unidos,Passiflora,Passiflora,Estados Unidos,Aceptado,Passiflora,L.,Género,Passifloraceae,Herbácea|Trepador
+31671,Xylocopa sonorina,38.08794557,-122.0299392,NA,NA,Passiflora,Passiflora,Estados Unidos,Aceptado,Passiflora,L.,Género,Passifloraceae,Herbácea|Trepador
+31674,Xylocopa sonorina,37.24709484,-121.7805158,US,Estados Unidos,Passiflora,Passiflora,Estados Unidos,Aceptado,Passiflora,L.,Género,Passifloraceae,Herbácea|Trepador
+31676,Xylocopa sonorina,37.39411549,-121.7306134,US,Estados Unidos,Passiflora,Passiflora,Estados Unidos,Aceptado,Passiflora,L.,Género,Passifloraceae,Herbácea|Trepador
+31677,Xylocopa sonorina,38.29982771,-122.4980573,US,Estados Unidos,Passiflora,Passiflora,Estados Unidos,Aceptado,Passiflora,L.,Género,Passifloraceae,Herbácea|Trepador
+31678,Xylocopa sonorina,32.67745833,-97.47383833,US,Estados Unidos,Passiflora,Passiflora,Estados Unidos,Aceptado,Passiflora,L.,Género,Passifloraceae,Herbácea|Trepador
+31679,Xylocopa sonorina,37.83484167,-122.2792133,US,Estados Unidos,Passiflora,Passiflora,Estados Unidos,Aceptado,Passiflora,L.,Género,Passifloraceae,Herbácea|Trepador
+31680,Xylocopa sonorina,37.57897564,-122.0743214,US,Estados Unidos,Passiflora,Passiflora,Estados Unidos,Aceptado,Passiflora,L.,Género,Passifloraceae,Herbácea|Trepador
+31681,Xylocopa sonorina,38.41562167,-122.84475,US,Estados Unidos,Passiflora,Passiflora,Estados Unidos,Aceptado,Passiflora,L.,Género,Passifloraceae,Herbácea|Trepador
+31683,Xylocopa sonorina,32.80162571,-116.9229827,US,Estados Unidos,Passiflora,Passiflora,Estados Unidos,Aceptado,Passiflora,L.,Género,Passifloraceae,Herbácea|Trepador
+31685,Xylocopa sonorina,38.422055,-122.7270283,US,Estados Unidos,Passiflora,Passiflora,Estados Unidos,Aceptado,Passiflora,L.,Género,Passifloraceae,Herbácea|Trepador
+31686,Xylocopa sonorina,32.556493,-117.085204,US,Estados Unidos,Passiflora,Passiflora,Estados Unidos,Aceptado,Passiflora,L.,Género,Passifloraceae,Herbácea|Trepador
+31687,Xylocopa sonorina,38.30470981,-122.2734468,US,Estados Unidos,Passiflora,Passiflora,Estados Unidos,Aceptado,Passiflora,L.,Género,Passifloraceae,Herbácea|Trepador
+31688,Xylocopa sonorina,37.91944865,-122.0441903,US,Estados Unidos,Passiflora,Passiflora,Estados Unidos,Aceptado,Passiflora,L.,Género,Passifloraceae,Herbácea|Trepador
+31689,Xylocopa sonorina,38.044088,-121.418561,US,Estados Unidos,Passiflora,Passiflora,Estados Unidos,Aceptado,Passiflora,L.,Género,Passifloraceae,Herbácea|Trepador
+31691,Xylocopa sonorina,37.47139829,-122.2241904,US,Estados Unidos,Passiflora,Passiflora,Estados Unidos,Aceptado,Passiflora,L.,Género,Passifloraceae,Herbácea|Trepador
+31692,Xylocopa sonorina,18.93661833,-98.13282833,MX,México,Passiflora caerulea,Passiflora caerulea,Argentina|Estados Unidos|México,Aceptado,Passiflora caerulea,L.,Especie,Passifloraceae,Trepador
+31695,Xylocopa sonorina,37.24795176,-121.9364722,US,Estados Unidos,Passiflora caerulea,Passiflora caerulea,Argentina|Estados Unidos|México,Aceptado,Passiflora caerulea,L.,Especie,Passifloraceae,Trepador
+31696,Xylocopa sonorina,38.0535267,-122.2243727,NA,NA,Passiflora caerulea,Passiflora caerulea,Argentina|Estados Unidos|México,Aceptado,Passiflora caerulea,L.,Especie,Passifloraceae,Trepador
+31697,Xylocopa sonorina,38.575525,-121.472375,US,Estados Unidos,Passiflora caerulea,Passiflora caerulea,Argentina|Estados Unidos|México,Aceptado,Passiflora caerulea,L.,Especie,Passifloraceae,Trepador
+31699,Xylocopa sonorina,37.30533333,-122.0251306,US,Estados Unidos,Passiflora caerulea,Passiflora caerulea,Argentina|Estados Unidos|México,Aceptado,Passiflora caerulea,L.,Especie,Passifloraceae,Trepador
+31700,Xylocopa sonorina,38.044088,-121.418561,US,Estados Unidos,Passiflora edulis,Passiflora edulis,Estados Unidos,Aceptado,Passiflora edulis,Sims,Especie,Passifloraceae,Trepador
+31797,Xylocopa sonorina,37.33400022,-121.9215106,US,Estados Unidos,Pelargonium,Pelargonium,Estados Unidos,Aceptado,Pelargonium,L'Hér.,Género,Geraniaceae,Arbusto|Herbácea
+31800,Xylocopa sonorina,37.39774394,-122.1653483,US,Estados Unidos,Pelargonium,Pelargonium,Estados Unidos,Aceptado,Pelargonium,L'Hér.,Género,Geraniaceae,Arbusto|Herbácea
+31970,Xylocopa sonorina,37.92058611,-122.0239861,US,Estados Unidos,Penstemon,Penstemon,Canadá|Colombia|Estados Unidos|México,Aceptado,Penstemon,Schmidel,Género,Plantaginaceae,Arbusto|Herbácea
+31985,Xylocopa sonorina,37.25517459,-121.9369841,US,Estados Unidos,Penstemon,Penstemon,Canadá|Colombia|Estados Unidos|México,Aceptado,Penstemon,Schmidel,Género,Plantaginaceae,Arbusto|Herbácea
+31993,Xylocopa sonorina,37.71565099,-121.7400185,US,Estados Unidos,Penstemon,Penstemon,Canadá|Colombia|Estados Unidos|México,Aceptado,Penstemon,Schmidel,Género,Plantaginaceae,Arbusto|Herbácea
+32005,Xylocopa sonorina,37.92316333,-122.0364138,US,Estados Unidos,Penstemon,Penstemon,Canadá|Colombia|Estados Unidos|México,Aceptado,Penstemon,Schmidel,Género,Plantaginaceae,Arbusto|Herbácea
+32462,Xylocopa sonorina,34.03594307,-118.1678128,US,Estados Unidos,Penstemon spectabilis,Penstemon spectabilis,Estados Unidos,Aceptado,Penstemon spectabilis,Thurb. ex A. Gray,Especie,Plantaginaceae,Arbusto|Herbácea
+32988,Xylocopa sonorina,38.46119444,-121.8292375,US,Estados Unidos,Phacelia,Phacelia,Canadá|Estados Unidos|México,Aceptado,Phacelia,Juss.,Género,Hydrophyllaceae,Herbácea
+33142,Xylocopa sonorina,37.7805733,-122.1742653,US,Estados Unidos,Phacelia,Phacelia,Canadá|Estados Unidos|México,Aceptado,Phacelia,Juss.,Género,Hydrophyllaceae,Herbácea
+33686,Xylocopa sonorina,37.37346981,-121.9311029,US,Estados Unidos,Phacelia tanacetifolia,Phacelia tanacetifolia,Canadá|Estados Unidos,Aceptado,Phacelia tanacetifolia,Benth.,Especie,Hydrophyllaceae,Herbácea
+33687,Xylocopa sonorina,37.57330016,-121.9770634,US,Estados Unidos,Phacelia tanacetifolia,Phacelia tanacetifolia,Canadá|Estados Unidos,Aceptado,Phacelia tanacetifolia,Benth.,Especie,Hydrophyllaceae,Herbácea
+33695,Xylocopa sonorina,37.8808094,-122.0361765,US,Estados Unidos,Phacelia tanacetifolia,Phacelia tanacetifolia,Canadá|Estados Unidos,Aceptado,Phacelia tanacetifolia,Benth.,Especie,Hydrophyllaceae,Herbácea
+33699,Xylocopa varipuncta,38.39672,-121.58899,US,Estados Unidos,Phacelia tanacetifolia,Phacelia tanacetifolia,Canadá|Estados Unidos,Aceptado,Phacelia tanacetifolia,Benth.,Especie,Hydrophyllaceae,Herbácea
+33706,Xylocopa sonorina,34.06721209,-118.145093,US,Estados Unidos,Phacelia tanacetifolia,Phacelia tanacetifolia,Canadá|Estados Unidos,Aceptado,Phacelia tanacetifolia,Benth.,Especie,Hydrophyllaceae,Herbácea
+33735,Xylocopa sonorina,37.8317622,-122.2722367,US,Estados Unidos,Phaseolus coccineus,Phaseolus coccineus,Estados Unidos,Aceptado,Phaseolus coccineus,L.,Especie,Fabaceae,Trepador
+33762,Xylocopa sonorina,37.22192,-121.977945,US,Estados Unidos,Phlomis,Phlomis,Estados Unidos|Grecia|Siria,Aceptado,Phlomis,L.,Género,Lamiaceae,Arbusto|Herbácea
+33765,Xylocopa sonorina,38.55240087,-121.7361509,US,Estados Unidos,Phlomis,Phlomis,Estados Unidos|Grecia|Siria,Aceptado,Phlomis,L.,Género,Lamiaceae,Arbusto|Herbácea
+33801,Xylocopa sonorina,33.830296,-116.545292,US,Estados Unidos,Phoradendron californicum,Phoradendron californicum,Estados Unidos,Aceptado,Phoradendron californicum,Nutt.,Especie,Santalaceae,Arbusto
+34126,Xylocopa sonorina,37.40860812,-122.2288401,US,Estados Unidos,Pisum sativum,Pisum sativum,Estados Unidos,Sinónimo,Lathyrus oleraceus,Lam.,Especie,Fabaceae,Herbácea|Trepador
+34132,Xylocopa sonorina,37.28155254,-121.8889597,US,Estados Unidos,Pittosporum,Pittosporum,Estados Unidos,Aceptado,Pittosporum,Banks ex Gaertn.,Género,Pittosporaceae,Árbol|Arbusto
+34147,Xylocopa sonorina,37.32949586,-121.9362063,US,Estados Unidos,Pittosporum tobira,Pittosporum tobira,Estados Unidos,Aceptado,Pittosporum tobira,(Thunb.) W.T. Aiton,Especie,Pittosporaceae,Arbusto
+34549,Xylocopa sonorina,37.34651333,-122.0455388,US,Estados Unidos,Polygala,Polygala,Estados Unidos,Aceptado,Polygala,L.,Género,Polygalaceae,Árbol|Arbusto|Herbácea|Trepador
+34550,Xylocopa sonorina,37.24432058,-121.8194433,US,Estados Unidos,Polygala,Polygala,Estados Unidos,Aceptado,Polygala,L.,Género,Polygalaceae,Árbol|Arbusto|Herbácea|Trepador
+34551,Xylocopa sonorina,37.25107504,-121.8257644,US,Estados Unidos,Polygala,Polygala,Estados Unidos,Aceptado,Polygala,L.,Género,Polygalaceae,Árbol|Arbusto|Herbácea|Trepador
+34552,Xylocopa sonorina,37.21576667,-121.8797383,US,Estados Unidos,Polygala,Polygala,Estados Unidos,Aceptado,Polygala,L.,Género,Polygalaceae,Árbol|Arbusto|Herbácea|Trepador
+34553,Xylocopa sonorina,37.691477,-122.1529431,US,Estados Unidos,Polygala,Polygala,Estados Unidos,Aceptado,Polygala,L.,Género,Polygalaceae,Árbol|Arbusto|Herbácea|Trepador
+34554,Xylocopa sonorina,37.27856167,-121.9192283,US,Estados Unidos,Polygala,Polygala,Estados Unidos,Aceptado,Polygala,L.,Género,Polygalaceae,Árbol|Arbusto|Herbácea|Trepador
+34555,Xylocopa sonorina,37.46270333,-122.24018,US,Estados Unidos,Polygala,Polygala,Estados Unidos,Aceptado,Polygala,L.,Género,Polygalaceae,Árbol|Arbusto|Herbácea|Trepador
+34556,Xylocopa sonorina,37.334055,-121.94178,US,Estados Unidos,Polygala,Polygala,Estados Unidos,Aceptado,Polygala,L.,Género,Polygalaceae,Árbol|Arbusto|Herbácea|Trepador
+34557,Xylocopa sonorina,37.21565777,-121.879418,US,Estados Unidos,Polygala,Polygala,Estados Unidos,Aceptado,Polygala,L.,Género,Polygalaceae,Árbol|Arbusto|Herbácea|Trepador
+34558,Xylocopa sonorina,37.36312898,-121.9316727,US,Estados Unidos,Polygala,Polygala,Estados Unidos,Aceptado,Polygala,L.,Género,Polygalaceae,Árbol|Arbusto|Herbácea|Trepador
+34560,Xylocopa sonorina,37.347825,-122.0689695,US,Estados Unidos,Polygala,Polygala,Estados Unidos,Aceptado,Polygala,L.,Género,Polygalaceae,Árbol|Arbusto|Herbácea|Trepador
+34561,Xylocopa sonorina,37.21577833,-121.8795617,US,Estados Unidos,Polygala,Polygala,Estados Unidos,Aceptado,Polygala,L.,Género,Polygalaceae,Árbol|Arbusto|Herbácea|Trepador
+34562,Xylocopa sonorina,37.38667167,-122.0732195,US,Estados Unidos,Polygala,Polygala,Estados Unidos,Aceptado,Polygala,L.,Género,Polygalaceae,Árbol|Arbusto|Herbácea|Trepador
+34565,Xylocopa sonorina,33.916475,-117.900292,US,Estados Unidos,Polygala fruticosa,Polygala fruticosa,Estados Unidos,Aceptado,Polygala fruticosa,P.J. Bergius,Especie,Polygalaceae,Arbusto
+34567,Xylocopa sonorina,37.53206333,-122.24762,US,Estados Unidos,Polygala myrtifolia,Polygala myrtifolia,Estados Unidos,Aceptado,Polygala myrtifolia,L.,Especie,Polygalaceae,Arbusto
+34568,Xylocopa sonorina,37.82741667,-122.246895,US,Estados Unidos,Polygala myrtifolia,Polygala myrtifolia,Estados Unidos,Aceptado,Polygala myrtifolia,L.,Especie,Polygalaceae,Arbusto
+35111,Xylocopa sonorina,33.75966428,-116.549591,US,Estados Unidos,NA,Prosopis glandulosa,NA,NA,NA,NA,NA,NA,NA
+35273,Xylocopa sonorina,37.33479678,-121.8737873,US,Estados Unidos,NA,Prunus,NA,NA,NA,NA,NA,NA,NA
+35337,Xylocopa sonorina,37.24795176,-121.9364722,US,Estados Unidos,NA,Prunus ilicifolia,NA,NA,NA,NA,NA,NA,NA
+36179,Xylocopa sonorina,37.2674391,-121.9764227,US,Estados Unidos,NA,Raphanus,NA,NA,NA,NA,NA,NA,NA
+36180,Xylocopa sonorina,37.2442649,-121.9340983,US,Estados Unidos,NA,Raphanus,NA,NA,NA,NA,NA,NA,NA
+36183,Xylocopa sonorina,37.6692998,-121.841661,US,Estados Unidos,NA,Raphanus,NA,NA,NA,NA,NA,NA,NA
+36230,Xylocopa sonorina,37.39321787,-122.0991167,US,Estados Unidos,NA,Raphanus sativus,NA,NA,NA,NA,NA,NA,NA
+36275,Xylocopa sonorina,37.23533833,-121.8465633,US,Estados Unidos,NA,Raphanus sativus,NA,NA,NA,NA,NA,NA,NA
+37218,Xylocopa sonorina,34.54232592,-119.2410922,US,Estados Unidos,NA,Romneya trichocalyx,NA,NA,NA,NA,NA,NA,NA
+37227,Xylocopa sonorina,38.57559095,-121.4882658,US,Estados Unidos,NA,Rosa,NA,NA,NA,NA,NA,NA,NA
+37229,Xylocopa sonorina,37.55632065,-122.3485859,US,Estados Unidos,NA,Rosa,NA,NA,NA,NA,NA,NA,NA
+37343,Xylocopa sonorina,37.2959055,-122.0347595,US,Estados Unidos,NA,Rosa,NA,NA,NA,NA,NA,NA,NA
+37374,Xylocopa sonorina,37.45361333,-122.2316883,US,Estados Unidos,NA,Rosa,NA,NA,NA,NA,NA,NA,NA
+37385,Xylocopa sonorina,37.56638486,-122.0938256,US,Estados Unidos,NA,Rosa,NA,NA,NA,NA,NA,NA,NA
+37396,Xylocopa sonorina,37.40262544,-121.8516622,US,Estados Unidos,NA,Rosa,NA,NA,NA,NA,NA,NA,NA
+37715,Xylocopa sonorina,37.24203,-121.9235383,US,Estados Unidos,NA,Rubus,NA,NA,NA,NA,NA,NA,NA
+37969,Xylocopa sonorina,38.02008,-121.820199,US,Estados Unidos,NA,Rubus,NA,NA,NA,NA,NA,NA,NA
+38028,Xylocopa sonorina,38.051973,-122.2269839,NA,NA,NA,Rubus,NA,NA,NA,NA,NA,NA,NA
+38111,Xylocopa sonorina,38.00522996,-121.7047204,US,Estados Unidos,NA,Rubus armeniacus,NA,NA,NA,NA,NA,NA,NA
+38418,Xylocopa sonorina,38.146987,-121.296252,US,Estados Unidos,NA,Rubus ursinus,NA,NA,NA,NA,NA,NA,NA
+38848,Xylocopa sonorina,37.287343,-121.9907903,US,Estados Unidos,NA,Ruschieae,NA,NA,NA,NA,NA,NA,NA
+38853,Xylocopa sonorina,32.75372,-117.1325222,US,Estados Unidos,NA,Rutaceae,NA,NA,NA,NA,NA,NA,NA
+39458,Xylocopa varipuncta,NA,NA,NA,NA,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39461,Xylocopa sonorina,37.36657778,-122.0445667,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39463,Xylocopa sonorina,37.68694391,-122.0742138,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39465,Xylocopa sonorina,37.82229606,-121.9761147,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39467,Xylocopa sonorina,38.25167167,-121.9825283,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39468,Xylocopa sonorina,37.84493022,-121.9628821,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39469,Xylocopa sonorina,37.49190231,-122.3497905,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39470,Xylocopa sonorina,37.43939479,-121.9601727,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39472,Xylocopa sonorina,37.91887439,-122.0441423,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39474,Xylocopa sonorina,37.44004667,-122.14843,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39536,Xylocopa sonorina,37.32905333,-121.93703,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39579,Xylocopa sonorina,37.842187,-122.272478,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39580,Xylocopa sonorina,37.37164837,-121.9386824,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39581,Xylocopa sonorina,37.00711112,-121.6014033,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39584,Xylocopa sonorina,37.40593833,-122.0968967,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39637,Xylocopa sonorina,37.39321787,-122.0991167,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39658,Xylocopa varipuncta,38.41753,-121.53422,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39660,Xylocopa sonorina,38.25168333,-121.982505,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39661,Xylocopa sonorina,37.87676496,-122.2670437,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39663,Xylocopa sonorina,37.72306129,-122.1446586,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39665,Xylocopa sonorina,37.41816501,-122.0682591,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39666,Xylocopa sonorina,37.57108333,-122.0748138,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39667,Xylocopa sonorina,37.3849944,-122.0945556,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39669,Xylocopa sonorina,37.39008333,-122.0763083,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39670,Xylocopa sonorina,32.71798333,-117.244325,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39671,Xylocopa sonorina,37.44201103,-122.1430195,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39673,Xylocopa sonorina,37.32847782,-121.9606735,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39674,Xylocopa sonorina,37.23488642,-121.9725624,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39675,Xylocopa sonorina,37.94959259,-121.9834671,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39676,Xylocopa sonorina,37.29619964,-121.8941665,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39677,Xylocopa sonorina,37.36215169,-121.8254723,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39678,Xylocopa sonorina,37.329195,-121.9370217,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39679,Xylocopa sonorina,37.46415833,-122.2417667,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39680,Xylocopa sonorina,34.00578644,-118.0051662,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39681,Xylocopa sonorina,37.40601667,-122.09689,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39682,Xylocopa sonorina,37.40596,-122.0969083,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39684,Xylocopa sonorina,34.26641464,-118.761589,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39685,Xylocopa sonorina,37.389355,-122.130095,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39686,Xylocopa sonorina,38.05256383,-122.2267083,NA,NA,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39688,Xylocopa sonorina,37.9680342,-122.0656121,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39689,Xylocopa sonorina,37.930695,-122.053925,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39704,Xylocopa sonorina,37.44120754,-122.3225027,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39726,Xylocopa sonorina,37.89487284,-122.2919407,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39739,Xylocopa sonorina,37.88602833,-122.2883533,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39745,Xylocopa sonorina,37.68961667,-121.7296133,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39754,Xylocopa sonorina,37.33970278,-121.9790056,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39762,Xylocopa sonorina,37.21552049,-121.9626585,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39764,Xylocopa sonorina,38.25171333,-121.9825583,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39765,Xylocopa sonorina,38.25160333,-121.9825583,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39767,Xylocopa sonorina,37.65517186,-121.784201,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39768,Xylocopa sonorina,37.24526777,-121.9600131,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39770,Xylocopa sonorina,38.35236667,-122.0249638,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39771,Xylocopa sonorina,38.3631775,-121.9390871,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39772,Xylocopa sonorina,37.38748,-122.0091028,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39773,Xylocopa sonorina,37.56108475,-122.3213425,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39775,Xylocopa sonorina,37.41109132,-122.1091397,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39776,Xylocopa sonorina,34.17565348,-118.1430794,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39782,Xylocopa sonorina,37.386052,-122.083851,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39792,Xylocopa sonorina,37.440012,-122.148225,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39794,Xylocopa sonorina,37.2087353,-121.8751436,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39803,Xylocopa sonorina,37.40591333,-122.0968033,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39804,Xylocopa sonorina,38.25168667,-121.982505,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39807,Xylocopa sonorina,38.01827333,-122.5236517,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39808,Xylocopa sonorina,37.26738667,-121.8388883,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39809,Xylocopa sonorina,37.4226,-122.1128433,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39811,Xylocopa sonorina,38.37372851,-121.8674179,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39812,Xylocopa sonorina,37.68363522,-121.7288602,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39814,Xylocopa sonorina,37.33434728,-121.9221215,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39815,Xylocopa sonorina,37.23202515,-121.7985687,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39816,Xylocopa sonorina,37.24905882,-121.9046663,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39817,Xylocopa sonorina,37.2954664,-122.0741074,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39820,Xylocopa sonorina,37.40599833,-122.0969033,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39826,Xylocopa sonorina,37.26299167,-121.9218133,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39829,Xylocopa sonorina,37.95522299,-122.5490566,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39830,Xylocopa sonorina,38.01539722,-122.1402556,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39831,Xylocopa sonorina,37.75795539,-122.2397204,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39832,Xylocopa sonorina,37.45885333,-122.25312,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39833,Xylocopa sonorina,37.87196667,-122.25505,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39834,Xylocopa sonorina,37.40585667,-122.09682,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39836,Xylocopa sonorina,37.48331333,-122.25032,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39840,Xylocopa sonorina,37.96047855,-122.1045779,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39845,Xylocopa sonorina,37.31099523,-121.9081274,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39846,Xylocopa sonorina,37.86992942,-122.1603219,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39847,Xylocopa sonorina,37.6220377,-121.6877788,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39849,Xylocopa sonorina,37.9549568,-121.9545545,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39851,Xylocopa sonorina,37.405945,-122.0968833,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39854,Xylocopa sonorina,37.83632873,-122.009671,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39857,Xylocopa sonorina,38.25172833,-121.9825217,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39859,Xylocopa sonorina,37.36721826,-122.0605202,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39860,Xylocopa sonorina,38.352269,-122.025291,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39861,Xylocopa sonorina,37.32783667,-121.956895,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39866,Xylocopa sonorina,37.16375,-121.6485667,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39867,Xylocopa sonorina,38.25166667,-121.9825367,US,Estados Unidos,NA,Salvia,NA,NA,NA,NA,NA,NA,NA
+39879,Xylocopa sonorina,37.98520278,-121.9949861,US,Estados Unidos,NA,Salvia apiana,NA,NA,NA,NA,NA,NA,NA
+39880,Xylocopa sonorina,33.98846167,-116.6550133,US,Estados Unidos,NA,Salvia apiana,NA,NA,NA,NA,NA,NA,NA
+39883,Xylocopa sonorina,38.51558891,-122.7530735,US,Estados Unidos,NA,Salvia apiana,NA,NA,NA,NA,NA,NA,NA
+39886,Xylocopa sonorina,37.3185827,-122.059917,US,Estados Unidos,NA,Salvia apiana,NA,NA,NA,NA,NA,NA,NA
+39915,Xylocopa sonorina,34.00856572,-118.0213667,US,Estados Unidos,NA,Salvia clevelandii,NA,NA,NA,NA,NA,NA,NA
+39926,Xylocopa sonorina,37.38489167,-122.0911722,US,Estados Unidos,NA,Salvia clevelandii,NA,NA,NA,NA,NA,NA,NA
+39928,Xylocopa varipuncta,NA,NA,NA,NA,NA,Salvia clevelandii,NA,NA,NA,NA,NA,NA,NA
+39976,Xylocopa sonorina,38.051973,-122.2269839,NA,NA,NA,Salvia farinacea,NA,NA,NA,NA,NA,NA,NA
+39983,Xylocopa sonorina,33.95295,-117.455735,US,Estados Unidos,NA,Salvia greggii,NA,NA,NA,NA,NA,NA,NA
+39984,Xylocopa sonorina,33.93785358,-116.9493299,US,Estados Unidos,NA,Salvia greggii,NA,NA,NA,NA,NA,NA,NA
+39988,Xylocopa sonorina,38.32120833,-122.3253167,US,Estados Unidos,NA,Salvia guaranitica,NA,NA,NA,NA,NA,NA,NA
+39991,Xylocopa sonorina,37.86525035,-122.2718726,US,Estados Unidos,NA,Salvia leucantha,NA,NA,NA,NA,NA,NA,NA
+39992,Xylocopa sonorina,37.88759295,-122.3268331,US,Estados Unidos,NA,Salvia leucantha,NA,NA,NA,NA,NA,NA,NA
+39994,Xylocopa sonorina,34.09824415,-118.2614495,US,Estados Unidos,NA,Salvia leucantha,NA,NA,NA,NA,NA,NA,NA
+39998,Xylocopa sonorina,37.66719667,-122.1213222,US,Estados Unidos,NA,Salvia leucantha,NA,NA,NA,NA,NA,NA,NA
+40000,Xylocopa sonorina,34.15654776,-118.3720007,US,Estados Unidos,NA,Salvia leucantha,NA,NA,NA,NA,NA,NA,NA
+40001,Xylocopa sonorina,37.85507439,-122.3113327,US,Estados Unidos,NA,Salvia leucantha,NA,NA,NA,NA,NA,NA,NA
+40002,Xylocopa sonorina,37.24795176,-121.9364722,US,Estados Unidos,NA,Salvia leucantha,NA,NA,NA,NA,NA,NA,NA
+40004,Xylocopa sonorina,32.80333333,-117.0493472,US,Estados Unidos,NA,Salvia leucantha,NA,NA,NA,NA,NA,NA,NA
+40005,Xylocopa sonorina,38.36307167,-121.939255,US,Estados Unidos,NA,Salvia leucantha,NA,NA,NA,NA,NA,NA,NA
+40020,Xylocopa sonorina,38.0473748,-122.1601414,NA,NA,NA,Salvia leucophylla,NA,NA,NA,NA,NA,NA,NA
+40027,Xylocopa sonorina,38.053797,-122.2283761,NA,NA,NA,Salvia leucophylla,NA,NA,NA,NA,NA,NA,NA
+40028,Xylocopa sonorina,38.0545149,-122.2295276,NA,NA,NA,Salvia leucophylla,NA,NA,NA,NA,NA,NA,NA
+40032,Xylocopa sonorina,38.0524037,-122.2266537,NA,NA,NA,Salvia leucophylla,NA,NA,NA,NA,NA,NA,NA
+40036,Xylocopa sonorina,37.404532,-121.954097,US,Estados Unidos,NA,Salvia leucophylla,NA,NA,NA,NA,NA,NA,NA
+40150,Xylocopa sonorina,37.329095,-121.9369667,US,Estados Unidos,NA,Salvia mexicana,NA,NA,NA,NA,NA,NA,NA
+40151,Xylocopa sonorina,38.25164667,-121.9825283,US,Estados Unidos,NA,Salvia microphylla,NA,NA,NA,NA,NA,NA,NA
+40152,Xylocopa sonorina,38.013675,-122.51735,US,Estados Unidos,NA,Salvia microphylla,NA,NA,NA,NA,NA,NA,NA
+40153,Xylocopa sonorina,37.40599667,-122.0967867,US,Estados Unidos,NA,Salvia microphylla,NA,NA,NA,NA,NA,NA,NA
+40154,Xylocopa sonorina,37.56117582,-122.3213323,US,Estados Unidos,NA,Salvia microphylla,NA,NA,NA,NA,NA,NA,NA
+40155,Xylocopa sonorina,37.3627775,-121.9681047,US,Estados Unidos,NA,Salvia microphylla,NA,NA,NA,NA,NA,NA,NA
+40157,Xylocopa sonorina,37.38419552,-122.0785697,US,Estados Unidos,NA,Salvia microphylla,NA,NA,NA,NA,NA,NA,NA
+40158,Xylocopa sonorina,38.05585833,-122.2140283,NA,NA,NA,Salvia microphylla,NA,NA,NA,NA,NA,NA,NA
+40159,Xylocopa sonorina,37.56152725,-122.3212357,US,Estados Unidos,NA,Salvia microphylla,NA,NA,NA,NA,NA,NA,NA
+40160,Xylocopa sonorina,38.034903,-122.026918,US,Estados Unidos,NA,Salvia microphylla,NA,NA,NA,NA,NA,NA,NA
+40161,Xylocopa sonorina,37.3265152,-122.0480118,US,Estados Unidos,NA,Salvia microphylla,NA,NA,NA,NA,NA,NA,NA
+40164,Xylocopa sonorina,38.25168333,-121.9825133,US,Estados Unidos,NA,Salvia microphylla,NA,NA,NA,NA,NA,NA,NA
+40165,Xylocopa sonorina,37.939817,-122.061878,US,Estados Unidos,NA,Salvia microphylla,NA,NA,NA,NA,NA,NA,NA
+40167,Xylocopa sonorina,37.25014995,-121.942179,US,Estados Unidos,NA,Salvia microphylla,NA,NA,NA,NA,NA,NA,NA
+40168,Xylocopa sonorina,37.44002516,-122.1481419,US,Estados Unidos,NA,Salvia microphylla,NA,NA,NA,NA,NA,NA,NA
+40170,Xylocopa sonorina,37.40594667,-122.096795,US,Estados Unidos,NA,Salvia microphylla,NA,NA,NA,NA,NA,NA,NA
+40171,Xylocopa sonorina,37.56116333,-122.3211883,US,Estados Unidos,NA,Salvia microphylla,NA,NA,NA,NA,NA,NA,NA
+40172,Xylocopa sonorina,37.24956654,-121.9421044,US,Estados Unidos,NA,Salvia microphylla,NA,NA,NA,NA,NA,NA,NA
+40174,Xylocopa sonorina,37.44758333,-122.1548695,US,Estados Unidos,NA,Salvia microphylla,NA,NA,NA,NA,NA,NA,NA
+40175,Xylocopa sonorina,37.68629667,-121.925775,US,Estados Unidos,NA,Salvia microphylla,NA,NA,NA,NA,NA,NA,NA
+40177,Xylocopa sonorina,37.983696,-122.048941,US,Estados Unidos,NA,Salvia microphylla,NA,NA,NA,NA,NA,NA,NA
+40255,Xylocopa sonorina,37.8660099,-122.2837981,US,Estados Unidos,NA,Salvia rosmarinus,NA,NA,NA,NA,NA,NA,NA
+40284,Xylocopa sonorina,37.38864044,-122.078383,US,Estados Unidos,NA,Salvia rosmarinus,NA,NA,NA,NA,NA,NA,NA
+40290,Xylocopa sonorina,37.31311401,-122.0631897,US,Estados Unidos,NA,Salvia sonomensis,NA,NA,NA,NA,NA,NA,NA
+40296,Xylocopa sonorina,37.4418834,-122.1430195,US,Estados Unidos,NA,Salvia uliginosa,NA,NA,NA,NA,NA,NA,NA
+40425,Xylocopa sonorina,19.6119293,-155.9729114,US,Estados Unidos,NA,Scaevola taccada,NA,NA,NA,NA,NA,NA,NA
+40428,Xylocopa sonorina,33.76957885,-116.9251506,US,Estados Unidos,NA,Schinus terebinthifolia,NA,NA,NA,NA,NA,NA,NA
+41111,Xylocopa sonorina,33.8302961,-116.5452921,US,Estados Unidos,NA,Senna artemisioides,NA,NA,NA,NA,NA,NA,NA
+41112,Xylocopa sonorina,33.25717748,-116.3770377,US,Estados Unidos,NA,Senna artemisioides,NA,NA,NA,NA,NA,NA,NA
+41113,Xylocopa varipuncta,NA,NA,NA,NA,NA,Senna bauhinioides,NA,NA,NA,NA,NA,NA,NA
+41114,Xylocopa varipuncta,31.32556,-109.26667,MX,México,NA,Senna bauhinioides,NA,NA,NA,NA,NA,NA,NA
+41151,Xylocopa sonorina,NA,NA,NA,NA,NA,Sesbania,NA,NA,NA,NA,NA,NA,NA
+41196,Xylocopa sonorina,19.675875,-156.0230167,NA,NA,NA,Sida fallax,NA,NA,NA,NA,NA,NA,NA
+41641,Xylocopa sonorina,37.97344667,-122.5614,US,Estados Unidos,NA,Solanum,NA,NA,NA,NA,NA,NA,NA
+41652,Xylocopa sonorina,32.96892477,-117.0765223,US,Estados Unidos,NA,Solanum,NA,NA,NA,NA,NA,NA,NA
+41653,Xylocopa sonorina,37.30801758,-121.952377,US,Estados Unidos,NA,Solanum,NA,NA,NA,NA,NA,NA,NA
+41700,Xylocopa sonorina,35.18084882,-106.457473,US,Estados Unidos,NA,Solanum elaeagnifolium,NA,NA,NA,NA,NA,NA,NA
+41701,Xylocopa sonorina,35.09148819,-106.7313857,US,Estados Unidos,NA,Solanum elaeagnifolium,NA,NA,NA,NA,NA,NA,NA
+41716,Xylocopa sonorina,37.85247429,-122.3274078,NA,NA,NA,Solanum laxum,NA,NA,NA,NA,NA,NA,NA
+41717,Xylocopa sonorina,37.91573921,-122.3674964,NA,NA,NA,Solanum laxum,NA,NA,NA,NA,NA,NA,NA
+41719,Xylocopa sonorina,38.52124991,-121.699227,US,Estados Unidos,NA,Solanum lycopersicum,NA,NA,NA,NA,NA,NA,NA
+41738,Xylocopa sonorina,37.52952099,-122.2483831,US,Estados Unidos,NA,Solanum lycopersicum,NA,NA,NA,NA,NA,NA,NA
+41739,Xylocopa sonorina,37.771655,-122.2698583,US,Estados Unidos,NA,Solanum lycopersicum,NA,NA,NA,NA,NA,NA,NA
+41741,Xylocopa sonorina,37.47764667,-122.2418967,US,Estados Unidos,NA,Solanum lycopersicum,NA,NA,NA,NA,NA,NA,NA
+41743,Xylocopa sonorina,38.46103036,-122.7607966,US,Estados Unidos,NA,Solanum lycopersicum,NA,NA,NA,NA,NA,NA,NA
+43098,Xylocopa sonorina,33.73098333,-116.3784333,US,Estados Unidos,NA,Sophora secundiflora ex,NA,NA,NA,NA,NA,NA,NA
+43099,Xylocopa sonorina,33.72815833,-116.2888717,US,Estados Unidos,NA,Sophora secundiflora ex,NA,NA,NA,NA,NA,NA,NA
+43111,Xylocopa sonorina,37.37900118,-122.092302,US,Estados Unidos,NA,Spathoglottis,NA,NA,NA,NA,NA,NA,NA
+43346,Xylocopa sonorina,37.381721,-122.027252,US,Estados Unidos,NA,Sphaeralcea ambigua,NA,NA,NA,NA,NA,NA,NA
+43947,Xylocopa sonorina,38.43702,-122.8685083,US,Estados Unidos,NA,Stachys byzantina,NA,NA,NA,NA,NA,NA,NA
+44280,Xylocopa sonorina,32.866714,-97.275069,US,Estados Unidos,NA,Styphnolobium affine,NA,NA,NA,NA,NA,NA,NA
+44281,Xylocopa sonorina,32.81376808,-96.72721893,US,Estados Unidos,NA,Styphnolobium affine,NA,NA,NA,NA,NA,NA,NA
+44282,Xylocopa sonorina,32.81370168,-96.72729805,US,Estados Unidos,NA,Styphnolobium affine,NA,NA,NA,NA,NA,NA,NA
+45015,Xylocopa sonorina,37.43002367,-122.2538558,US,Estados Unidos,NA,Syringa vulgaris,NA,NA,NA,NA,NA,NA,NA
+45181,Xylocopa sonorina,37.41223667,-122.1040278,US,Estados Unidos,NA,Tagetes,NA,NA,NA,NA,NA,NA,NA
+45957,Xylocopa sonorina,37.32437272,-121.8101156,US,Estados Unidos,NA,Taraxacum officinale,NA,NA,NA,NA,NA,NA,NA
+46158,Xylocopa sonorina,37.97098411,-121.8260546,US,Estados Unidos,NA,Tecoma stans,NA,NA,NA,NA,NA,NA,NA
+46159,Xylocopa sonorina,33.78198833,-116.2872617,US,Estados Unidos,NA,Tecoma stans,NA,NA,NA,NA,NA,NA,NA
+46161,Xylocopa sonorina,33.74916167,-117.0083,US,Estados Unidos,NA,Tecoma stans,NA,NA,NA,NA,NA,NA,NA
+46164,Xylocopa sonorina,33.79406667,-116.4698417,US,Estados Unidos,NA,Tecoma stans,NA,NA,NA,NA,NA,NA,NA
+46476,Xylocopa sonorina,19.67594913,-156.02633,NA,NA,NA,Thespesia populnea,NA,NA,NA,NA,NA,NA,NA
+46610,Xylocopa sonorina,37.24593373,-121.7775538,US,Estados Unidos,NA,Trachelospermum jasminoides,NA,NA,NA,NA,NA,NA,NA
+46694,Xylocopa sonorina,33.7822811,-116.4356381,US,Estados Unidos,NA,Trichocereus,NA,NA,NA,NA,NA,NA,NA
+46695,Xylocopa sonorina,33.78623767,-116.5412282,US,Estados Unidos,NA,Trichocereus,NA,NA,NA,NA,NA,NA,NA
+47155,Xylocopa sonorina,37.80756605,-121.9812651,US,Estados Unidos,NA,Trifolium incarnatum,NA,NA,NA,NA,NA,NA,NA
+47713,Xylocopa sonorina,37.9944812,-121.7076014,US,Estados Unidos,NA,Tropaeolum majus,NA,NA,NA,NA,NA,NA,NA
+47714,Xylocopa sonorina,37.7418791,-121.8858787,US,Estados Unidos,NA,Tropaeolum majus,NA,NA,NA,NA,NA,NA,NA
+47715,Xylocopa sonorina,38.363105,-121.939155,US,Estados Unidos,NA,Tropaeolum majus,NA,NA,NA,NA,NA,NA,NA
+47716,Xylocopa sonorina,37.34993671,-121.9533869,US,Estados Unidos,NA,Tropaeolum majus,NA,NA,NA,NA,NA,NA,NA
+47717,Xylocopa sonorina,38.38353333,-121.9745417,US,Estados Unidos,NA,Tropaeolum majus,NA,NA,NA,NA,NA,NA,NA
+48079,Xylocopa sonorina,37.3916077,-122.0246822,US,Estados Unidos,NA,Verbena bonariensis,NA,NA,NA,NA,NA,NA,NA
+48299,Xylocopa sonorina,38.14987,-121.290531,US,Estados Unidos,NA,Verbenaceae,NA,NA,NA,NA,NA,NA,NA
+48818,Xylocopa sonorina,38.564141,-121.389717,US,Estados Unidos,NA,Vicia,NA,NA,NA,NA,NA,NA,NA
+48881,Xylocopa sonorina,38.891565,-121.293008,US,Estados Unidos,NA,Vicia,NA,NA,NA,NA,NA,NA,NA
+48906,Xylocopa sonorina,38.53022291,-121.8372436,US,Estados Unidos,NA,Vicia,NA,NA,NA,NA,NA,NA,NA
+48911,Xylocopa sonorina,32.881604,-97.280205,US,Estados Unidos,NA,Vicia,NA,NA,NA,NA,NA,NA,NA
+48993,Xylocopa sonorina,37.76198833,-122.2305433,US,Estados Unidos,NA,Vicia faba,NA,NA,NA,NA,NA,NA,NA
+48994,Xylocopa sonorina,38.302595,-122.2797867,US,Estados Unidos,NA,Vicia faba,NA,NA,NA,NA,NA,NA,NA
+48997,Xylocopa sonorina,37.40681235,-121.8536703,US,Estados Unidos,NA,Vicia faba,NA,NA,NA,NA,NA,NA,NA
+48999,Xylocopa sonorina,37.40612333,-122.0969067,US,Estados Unidos,NA,Vicia faba,NA,NA,NA,NA,NA,NA,NA
+49000,Xylocopa sonorina,37.36006985,-121.9694823,US,Estados Unidos,NA,Vicia faba,NA,NA,NA,NA,NA,NA,NA
+49020,Xylocopa sonorina,38.0524025,-122.2264815,NA,NA,NA,Vicia sativa,NA,NA,NA,NA,NA,NA,NA
+49159,Xylocopa sonorina,37.31355484,-122.024651,US,Estados Unidos,NA,Vigna unguiculata sesquipedalis,NA,NA,NA,NA,NA,NA,NA
+49200,Xylocopa sonorina,37.82244114,-121.9661043,US,Estados Unidos,NA,Viola,NA,NA,NA,NA,NA,NA,NA
+49314,Xylocopa sonorina,35.18213708,-106.7977195,US,Estados Unidos,NA,Vitex,NA,NA,NA,NA,NA,NA,NA
+49318,Xylocopa sonorina,35.14963394,-106.7850202,US,Estados Unidos,NA,Vitex,NA,NA,NA,NA,NA,NA,NA
+49322,Xylocopa sonorina,35.10840671,-106.6566938,US,Estados Unidos,NA,Vitex,NA,NA,NA,NA,NA,NA,NA
+49323,Xylocopa sonorina,33.91137657,-116.9299088,US,Estados Unidos,NA,Vitex agnus-castus,NA,NA,NA,NA,NA,NA,NA
+49334,Xylocopa sonorina,33.87342836,-116.9557336,US,Estados Unidos,NA,Vitex agnus-castus,NA,NA,NA,NA,NA,NA,NA
+49367,Xylocopa sonorina,19.61219562,-155.9811655,NA,NA,NA,Waltheria indica,NA,NA,NA,NA,NA,NA,NA
+49368,Xylocopa sonorina,19.67822822,-156.0220433,NA,NA,NA,Waltheria indica,NA,NA,NA,NA,NA,NA,NA
+49414,Xylocopa sonorina,37.41005333,-122.1566917,US,Estados Unidos,NA,Wisteria,NA,NA,NA,NA,NA,NA,NA
+49416,Xylocopa sonorina,37.78615508,-122.2259055,US,Estados Unidos,NA,Wisteria,NA,NA,NA,NA,NA,NA,NA
+49418,Xylocopa sonorina,37.24795176,-121.9364722,US,Estados Unidos,NA,Wisteria,NA,NA,NA,NA,NA,NA,NA
+49419,Xylocopa sonorina,37.41072006,-122.1461834,US,Estados Unidos,NA,Wisteria,NA,NA,NA,NA,NA,NA,NA
+49420,Xylocopa sonorina,37.42891161,-122.165282,US,Estados Unidos,NA,Wisteria,NA,NA,NA,NA,NA,NA,NA
+49421,Xylocopa sonorina,37.75126167,-122.2351333,US,Estados Unidos,NA,Wisteria,NA,NA,NA,NA,NA,NA,NA
+49423,Xylocopa sonorina,37.90655635,-122.3016092,US,Estados Unidos,NA,Wisteria,NA,NA,NA,NA,NA,NA,NA
+49424,Xylocopa sonorina,37.75123167,-122.2352217,US,Estados Unidos,NA,Wisteria,NA,NA,NA,NA,NA,NA,NA
+49425,Xylocopa sonorina,37.69174157,-121.7012352,US,Estados Unidos,NA,Wisteria,NA,NA,NA,NA,NA,NA,NA
+49426,Xylocopa sonorina,37.97625373,-122.0772633,US,Estados Unidos,NA,Wisteria,NA,NA,NA,NA,NA,NA,NA
+49427,Xylocopa sonorina,37.3216223,-121.9426095,US,Estados Unidos,NA,Wisteria,NA,NA,NA,NA,NA,NA,NA
+49428,Xylocopa sonorina,37.39321787,-122.0991167,US,Estados Unidos,NA,Wisteria,NA,NA,NA,NA,NA,NA,NA
+49429,Xylocopa sonorina,37.99849587,-122.0565119,US,Estados Unidos,NA,Wisteria,NA,NA,NA,NA,NA,NA,NA
+49433,Xylocopa sonorina,37.74834463,-121.9230626,US,Estados Unidos,NA,Wisteria sinensis,NA,NA,NA,NA,NA,NA,NA
+49786,Xylocopa sonorina,38.57557167,-121.47252,US,Estados Unidos,NA,Zinnia elegans,NA,NA,NA,NA,NA,NA,NA
