@@ -44,7 +44,7 @@ plant_data <- interaction_data |>
     level = "species",
     type = 0,
     fGroupId = 1,
-    grp = 1,
+    grp = 2,
     isexternaldata = FALSE
   ) |>
   filter(!is.na(rank)) |>
@@ -71,6 +71,13 @@ data <- list(
   target = as.data.frame(plant_data) 
 )
 
+# NOTE: We can save the body object to a file as
+# data %>% 
+# jsonlite::write_json(
+#    pretty = TRUE, 
+#    auto_unbox = TRUE, 
+#    path="testAnalysisCommunity.json"
+#  )
 resp_dataset_creation <- POST(URL1, body = data, encode = "json")
 
 # Save analysis in cache ----
