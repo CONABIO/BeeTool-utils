@@ -4,67 +4,29 @@ library(httr)
 
 options(scipen = 999)
 
-# test <- '{
-#   "source":[{
-#     "biotic":true,
-#     "level":"species",
-#     "rank":"family",
-#     "value":"Apidae",
-#     "type":0,
-#     "fGroupId":1,
-#     "grp":0,
-#     "isexternaldata":false
-#   }],
-#   "target":[{
-#     "biotic":true,
-#     "level":"species",
-#     "rank":"class",
-#     "value":"Magnoliopsida",
-#     "type":0,
-#     "fGroupId":2,
-#     "grp":1,
-#     "isexternaldata":false
-#   }],
-#   "min_occ":5,
-#   "grid_res":"32",
-#   "footprint_region":2,
-#   "fosil":true,
-#   "date":true,
-#   "data_source":"gbif",
-#   "loadexternaldatafuente":false,
-#   "loadexternaldatadestino":false,
-#   "iddatadestino":null,
-#   "iddatafuente":null,
-#   "niveltaxonomico":"species",
-#   "genTokenAndSaveResults": true
-# }'
-# 
-# data <- jsonlite::fromJSON(test)
-# serialized <- dput(data)
-# serialized
-# 
-# source = structure(list(biotic = TRUE, level = "species", 
-#                         rank = "family", value = "Apidae", type = 0L, fGroupId = 1L, 
-#                         grp = 0L, isexternaldata = FALSE), class = "data.frame", row.names = 1L), 
-# target = structure(list(biotic = TRUE, level = "species", 
-#                         rank = "class", value = "Magnoliopsida", type = 0L, fGroupId = 2L, 
-#                         grp = 1L, isexternaldata = FALSE), class = "data.frame", row.names = 1L), 
+BEE_SP_EXAMPLE <- "XYLVAR"
 
+# Data loading and processing ----
+# Bee sps
+bee_sps_data <- readr::read_csv("./data/bee-sps.csv")
 
+bee_sp <- bee_sps_data |>
+  filter(ClaveSp == BEE_SP_EXAMPLE)
+bee_name <- paste(bee_sp["Género"], bee_sp["Especie"])
 
+# Interaction bee-plant
+interaction_data <- readr::read_csv(
+  paste0("./data/",bee_sp["ClaveSp"],"_valido.csv"))
 
-interaction_data <- readr::read_csv("./data/XYLVAR_valido.csv")
-colnames(interaction_data)
-bee_sp <- unique(interaction_data[["source_taxon_name"]])[3]
 bee_data <- tibble(
   biotic = TRUE,
-  level = "species",
-  rank = "species",
-  value = bee_sp,
-  type = 0,
   fGroupId = 1,
   grp = 1,
-  isexternaldata = FALSE
+  isexternaldata = FALSE,
+  level = "species",
+  rank = "species",
+  type = 0,
+  value = bee_name
 )
 
 plant_data <- interaction_data |> 
@@ -88,11 +50,50 @@ plant_data <- interaction_data |>
   filter(!is.na(rank)) |>
   select(-Rango.Taxonómico)
 
-data <- list(source = as.data.frame(bee_data), target = as.data.frame(plant_data), min_occ = 5, grid_res = "32", footprint_region = 4, fosil = FALSE, 
-     date = FALSE, data_source = "gbif", loadexternaldatafuente = FALSE, 
-     loadexternaldatadestino = FALSE, iddatadestino = NULL, iddatafuente = NULL, 
-     niveltaxonomico = "species", genTokenAndSaveResults = TRUE)
+# Create data analysis request ----
 URL1 <- "http://species.conabio.gob.mx/api/dbdev/niche/getTaxonsGroupNodes"
-r <- POST(URL1, body = data, encode = "json")
-content(r)
 
+# Body object
+data <- list(
+  data_source = "gbif", 
+  date = FALSE, 
+  footprint_region = 4, 
+  fosil = FALSE, 
+  genTokenAndSaveResults = TRUE,
+  grid_res = "32", 
+  iddatadestino = NULL, 
+  iddatafuente = NULL, 
+  loadexternaldatadestino = FALSE, 
+  loadexternaldatafuente = FALSE, 
+  min_occ = 5, 
+  niveltaxonomico = "species", 
+  source = as.data.frame(bee_data), 
+  target = as.data.frame(plant_data) 
+)
+
+resp_dataset_creation <- POST(URL1, body = data, encode = "json")
+
+# Save analysis in cache ----
+URL2 <- "http://species.conabio.gob.mx/api/dbdev/niche/getTaxonsGroupEdges"
+
+id_analysis <- content(resp_dataset_creation)$idanalisis 
+token <- content(resp_dataset_creation)$token
+
+# Body object
+data2 <- list(
+  min_occ = 5, 
+  grid_res = "32", 
+  footprint_region = 4, 
+  idanalisis = id_analysis, 
+  caso = 1, 
+  data_source = "gbif", 
+  niveltaxonomico = "species", 
+  genTokenAndSaveResults = TRUE,
+  token = token
+  )
+
+resp_cache_data <- POST(URL2, body = data2, encode = "json")
+
+# NOTE: to explore the analysis results visit
+# https://species.conabio.gob.mx/dbdev/comunidad_v0.1.html#link/?token=<token_value>
+ 
