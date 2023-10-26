@@ -71,13 +71,15 @@ data <- list(
   target = as.data.frame(plant_data) 
 )
 
-# NOTE: We can save the body object to a file as
+# NOTE: To save the 'data' object to a file, you can use the following code
 # data %>% 
 # jsonlite::write_json(
 #    pretty = TRUE, 
 #    auto_unbox = TRUE, 
-#    path="testAnalysisCommunity.json"
+#    path = "testAnalysisCommunity.json"
 #  )
+# For debugging purposes
+
 resp_dataset_creation <- POST(URL1, body = data, encode = "json")
 
 # Save analysis in cache ----
