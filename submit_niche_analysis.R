@@ -3,6 +3,7 @@ library(tibble)
 library(httr)
 
 options(scipen = 999)
+FOOTPRINT <- 4
 
 
 args = commandArgs(trailingOnly = TRUE)
@@ -31,13 +32,7 @@ interaction_data <- readr::read_csv(
 )
 
 bee_data <- tibble(
-  biotic = TRUE,
-  fGroupId = 1,
-  grp = 1,
-  isexternaldata = FALSE,
-  level = "species",
-  rank = "species",
-  type = 0,
+  taxon_rank = "species",
   value = bee_name
 )
 
@@ -52,70 +47,59 @@ plant_data <- interaction_data |>
       Rango.Taxonómico == "Especie" ~ "species",
       .default = NA
     ),
-    biotic = TRUE,
-    level = "species",
     type = 0,
-    fGroupId = 1,
-    grp = 2,
-    isexternaldata = FALSE
+    level = "species"
   ) |>
   filter(!is.na(rank)) |>
   select(-Rango.Taxonómico)
 
+covariables <- tibble(
+  name = "plants",
+  biotic = TRUE,
+  group_item = 1,
+  merge_vars = list(plant_data)
+)
 # Create data analysis request ----
-URL1 <- "http://species.conabio.gob.mx/api/dbdev/niche/getTaxonsGroupNodes"
+URL1 <- "http://species.conabio.gob.mx/api/dbdev/niche/countsTaxonsGroup"
 
 # Body object
 data <- list(
-  data_source = "gbif", 
-  date = FALSE, 
-  footprint_region = 3, 
-  fosil = FALSE, 
-  genTokenAndSaveResults = TRUE,
-  grid_res = "32", 
-  iddatadestino = NULL, 
-  iddatafuente = NULL, 
-  loadexternaldatadestino = FALSE, 
-  loadexternaldatafuente = FALSE, 
-  min_occ = 5, 
-  niveltaxonomico = "species", 
-  source = as.data.frame(bee_data), 
-  target = as.data.frame(plant_data) 
+  target_taxons = bee_data,
+  covariables = covariables,
+  apriori = FALSE,
+  mapa_prob = FALSE,
+  min_cells = 5,
+  fosil = TRUE,
+  date = TRUE,
+  grid_resolution = "32",
+  region = FOOTPRINT,
+  data_source = "gbif",
+  with_data_score_cell = TRUE,
+  with_data_freq = TRUE,
+  with_data_freq_cell = TRUE,
+  with_data_score_decil = TRUE,
+  iterations = 1,
+  tipo_procedencia = "API",
+  genTokenAndSaveResults = TRUE
 )
 
 # NOTE: To save the 'data' object to a file, you can use the following code
 # data %>% 
-# jsonlite::write_json(
-#    pretty = TRUE, 
-#    auto_unbox = TRUE, 
-#    path = "testAnalysisCommunity.json"
-#  )
+#   jsonlite::write_json(
+#      pretty = TRUE, 
+#      auto_unbox = TRUE, 
+#      path = "testAnalysisCommunity.json"
+#    )
 # For debugging purposes
 
 resp_dataset_creation <- POST(URL1, body = data, encode = "json")
 
-# Save analysis in cache ----
-URL2 <- "http://species.conabio.gob.mx/api/dbdev/niche/getTaxonsGroupEdges"
-
-id_analysis <- content(resp_dataset_creation)$idanalisis 
-token <- content(resp_dataset_creation)$token
-
-# Body object
-data2 <- list(
-  min_occ = 5, 
-  grid_res = "32", 
-  footprint_region = 3, 
-  idanalisis = id_analysis, 
-  caso = 1, 
-  data_source = "gbif", 
-  niveltaxonomico = "species", 
-  genTokenAndSaveResults = TRUE,
-  token = token
-  )
-
-resp_cache_data <- POST(URL2, body = data2, encode = "json")
+# resp_dataset_creation %>% 
+#   content()
 
 # NOTE: to explore the analysis results visit
-# https://species.conabio.gob.mx/dbdev/comunidad_v0.1.html#link/?token=<token_value>
-to_log <- c(BEE_SP_EXAMPLE, id_analysis, token)
-write(to_log, "inter_info.txt", append = TRUE, ncolumns = 3)
+# https://species.conabio.gob.mx/dbdev/geoportal_v0.1.html#link/?token=<token_value>
+token <- content(resp_dataset_creation)$token
+to_log <- c(BEE_SP_EXAMPLE, token, FOOTPRINT)
+
+write(to_log, "niche_info.txt", append = TRUE, ncolumns = 3)
