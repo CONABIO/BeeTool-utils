@@ -133,7 +133,7 @@ for (i in 1:1){
 }
 
 # NORTH AMERICA DATASET - This batch code spatially joins the records to a EPA LIII field (NA_L3CODE) and exports a CSV
-# for (i in 1:1){
+for (i in 1:1){
 # Add county fields with GIS spatial join
 all_bees <- st_as_sf(all_bees,
                      coords = c(x = "decimalLongitude", y = "decimalLatitude"),

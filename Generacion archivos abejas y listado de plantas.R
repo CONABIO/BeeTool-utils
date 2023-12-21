@@ -1,13 +1,20 @@
-#Generación de data frame para cada abeja con columnas de interes y listado general de plantas#
+# This script utilizes data downloaded from GLOBI (refer to
+# `download_interaction_data_from_globi.R`) to generate a checklist of plants
+# for each bee species. Additionally, it assigns the countries where each plant
+# species is present based on the downloaded data.
 
-library(tidyr)
-library(EDAWR)
-library(dplyr)
 library(tidyverse)
-library(purrr)
+library(EDAWR)
 
-#Cargar nombres"
-nombres <-read.csv("Clave.csv",header=T)
+DATA_FOLDER <- "./data"
+
+# Bee codes
+bee_codes <- read_csv(fs::path_join(c(DATA_FOLDER, "bee_interaction_downloads.csv"))) %>%
+  pull(ClaveSp)
+
+# Downloaded data files
+files <- fs::dir_ls(path = DATA_FOLDER, glob="*_globi.csv")
+
 
 #Cargar todas las especies"
 AGAANG <-read.csv("1.csv", header=TRUE)

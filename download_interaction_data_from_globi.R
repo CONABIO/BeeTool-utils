@@ -12,6 +12,7 @@
 
 library(tidyverse)
 
+config <- config::get()
 DATA_FOLDER <- "./data"
   
 URL1 = "https://api.globalbioticinteractions.org/interaction?type=csv&interactionType=interactsWith&limit=4096&offset=0&refutes=false&includeObservations=true&sourceTaxon="
