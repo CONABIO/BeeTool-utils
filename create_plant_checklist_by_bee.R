@@ -4,14 +4,9 @@
 # species is present based on the downloaded data.
 
 library(tidyverse)
-# library(EDAWR)
 
 config <- config::get()
 DATA_FOLDER <- config$data_folder
-
-# Bee codes
-bee_codes <- read_csv(fs::path_join(c(DATA_FOLDER, "bee_interaction_downloads.csv"))) %>%
-  pull(ClaveSp)
 
 # Load downloaded data files
 files <- fs::dir_ls(path = DATA_FOLDER, glob="*_globi.csv")
