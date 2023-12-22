@@ -27,7 +27,7 @@ LISTA <- result %>%
 
 LISTA2 <- LISTA %>% 
   group_by(target_taxon_name) %>% 
-  summarise(countries = paste(NAME_ES, collapse = " | "))
+  summarise(country_name = paste(NAME_ES, collapse = " | "))
 
 
 # Write data

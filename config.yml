@@ -1,2 +1,3 @@
 default:
   "data_folder": "./data"
+  "reviewed_plant_checklist": "./data/plant_checklist_reviewed.xlsx"
