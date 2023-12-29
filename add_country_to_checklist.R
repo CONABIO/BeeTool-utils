@@ -1,0 +1,41 @@
+library(terra)
+library(tidyverse)
+
+config <- config::get()
+DATA_FOLDER <- config$data_folder
+
+# Find checklist data files
+listado_archivos <- fs::dir_ls(path = DATA_FOLDER, glob="*_list.csv")
+
+crs_wgs84 <- "+proj=longlat +datum=WGS84 +ellps=WGS84 +towgs84=0,0,0"
+
+# Bajar shapefile de https://www.naturalearthdata.com/downloads/50m-cultural-vectors/
+shp_countries_fp <- "./countries/ne_50m_admin_0_countries.shp"
+world_info <- vect(shp_countries_fp)
+attr_country <- c("ISO_A2", "NAME_ES")
+
+for(f in listado_archivos) {
+  cat("Procesando archivo", fs::path_file(f), "\n")
+  data <- read_csv(f)
+  if (nrow(data) == 0) {
+    next
+  }
+  data_names <- names(data)
+  data_names <- c(data_names, attr_country)
+  
+  data <- vect(
+    as.matrix(select(data, longitude, latitude)),
+    crs=crs_wgs84,
+    atts=as.data.frame(select(data, -longitude, -latitude))
+  )
+  
+  country_data <- terra::extract(
+    world_info, data
+  )
+  
+  data <- cbind(data, country_data)
+  data <- as.data.frame(data, geom = "XY") %>%
+    rename("longitude"=x, "latitude"=y) %>%
+    select(any_of(data_names))
+  write_csv(data, f)
+}
