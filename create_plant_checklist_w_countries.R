@@ -1,4 +1,6 @@
-#Script para generar el listado de plantas con paises#
+# Join all plant checklists with country information to one unique checklist
+# to review plant names.
+
 library(tidyverse)
 
 config <- config::get()

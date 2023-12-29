@@ -1,11 +1,7 @@
-#Unir nombres de plantas validados a archivos de plantas#
+# This script join bee plant interaction list with the valid names for each 
+# plant.
 
-#librerias
-# library(data.table)
-# library(dplyr)
-# library(readr)
 library(tidyverse)
-# library(stringr)
 
 config <- config::get()
 DATA_FOLDER <- config$data_folder
@@ -57,25 +53,10 @@ variables <- c(
 lista_w_valid_names <- lista_w_valid_names %>%
   map(\(df) select(df, any_of(variables)))
 
-archivos <- list.files(path = "D:/OneDrive/Abejas/Scripts/con_pais/Abejas", pattern = "*.csv")
-Bigdf <- readr::read_csv(archivos, id = "file_name")
+# Add bee code as name in list
+names(lista_w_valid_names) <- names(lista_w_valid_names) %>%
+  str_extract("([:upper:]+)_list.csv$", group = 1)
 
-#Modificamos la primer columna
-Bigdf$file_name <- str_replace (Bigdf$file_name, ".csv", "")
-
-
-#Unimos las columnas de interés#
-Bigdf2<-merge(x = Bigdf, y = Plantas2, by = c("target_taxon_name"), all.x = T)
-
-#Dividimos por especie (Clave)
-
-Lista <- split(Bigdf2, f = Bigdf2$file_name)
-
-variables <- c("source_taxon_name","latitude","longitude","ISO_A2","NAME_ES",
- "searched_taxon_name","target_taxon_name", "country_name","Estatus.Taxonómico","Nombre.Válido","Autoridad","Rango.Taxonómico",   "Familia","Forma.biológica")
-Lista2 = lapply(Lista, "[", , variables)
-
-#Generamos archivo .csv#
-for(i in names(Lista2)){
-  write.csv(Lista2[[i]], paste0(i,"_valido.csv"))
-}
+lista_w_valid_names %>%
+  imap(\(df, sp_code) write_csv(df, 
+                                fs::path_join(c(DATA_FOLDER, paste0(sp_code, "_valid.csv")))))
