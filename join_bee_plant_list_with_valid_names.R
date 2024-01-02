@@ -1,5 +1,8 @@
-# This script join bee plant interaction list with the valid names for each 
-# plant.
+# This script simplifies the integration of bee-plant interaction details by 
+# combining them with a validated plant checklist. It creates individual files 
+# for each bee species, utilizing the naming format `{sp_code}_valid.csv`. 
+# Prior execution of the `create_plant_checklist_w_countries.R` script is a 
+# prerequisite for the expected functionality.
 
 library(tidyverse)
 

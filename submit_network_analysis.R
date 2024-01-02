@@ -1,4 +1,9 @@
 #!/usr/bin/env Rscript
+# Command-Line Interface (CLI) for submitting bee network analyses through the 
+# utilization of plant interaction data on the 
+# [SPECIES platform](https://chilam.c3.unam.mx/en/projects/about-species). 
+# The script requires pre-existing bee files containing valid plant information 
+# in the designated data folder to function effectively.
 
 library(argparse)
 library(cli)
