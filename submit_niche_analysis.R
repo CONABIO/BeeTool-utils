@@ -1,34 +1,47 @@
-library(dplyr)
+#!/usr/bin/env Rscript
+
+library(argparse)
+library(cli)
+library(dplyr, warn.conflicts = FALSE)
 library(tibble)
 library(httr)
+library(stringr)
 
 options(scipen = 999)
-FOOTPRINT <- 4
+FOOTPRINT <- 4 # Analysis over North America Region
 
+config <- config::get()
 
-args = commandArgs(trailingOnly = TRUE)
-if (length(args) == 0) {
-  stop("Please enter a single parameter (input file).\n", call. = FALSE)
-} else if (length(args) == 1) {
-  cat("Processing", args[1], "\n")
-} else {
-  stop("Single parameter is needed (input file).\n", call. = FALSE)
-}
+parser <- ArgumentParser(description="Script to register bee-plant niche interaction 
+                         analysis in SPECIES platform")
+parser$add_argument('bee_sp_code', type="character", 
+                    help=str_glue("Bee code based on {config$bee_sp_codes_file} list"))
+
+args <- parser$parse_args()
+
+sp_code  <- args$bee_sp_code
+
+cli_alert_info("Processing bee: {sp_code}")
+
 BEE_SP_EXAMPLE  <- args[1]
 # BEE_SP_EXAMPLE <- "AGAOBL"
 
 # Data loading and processing ----
 # Bee sps
-bee_sps_data <- readr::read_csv("./data/bee-sps.csv")
+bee_sps_data <- readr::read_csv(config$bee_sp_codes_file,
+                                show_col_types = FALSE)
 
 bee_sp <- bee_sps_data |>
-  filter(ClaveSp == BEE_SP_EXAMPLE)
+  filter(ClaveSp == sp_code)
+
+if (nrow(bee_sp) == 0) {
+  cli_abort("Could not find bee with code: {sp_code}")
+}
 bee_name <- paste(bee_sp["Género"], bee_sp["Especie"])
 
 # Interaction bee-plant
 interaction_data <- readr::read_csv(
-  paste0("./data/listados_plantas/",bee_sp["ClaveSp"],"_valido.csv"),
-  locale = readr::locale(encoding = "latin1")
+  fs::path_join(c(config$data_folder, str_glue("{sp_code}_valid.csv")))
 )
 
 bee_data <- tibble(
@@ -37,21 +50,21 @@ bee_data <- tibble(
 )
 
 plant_data <- interaction_data |> 
-  select(Nombre.Válido, Rango.Taxonómico) |>
-  rename(value=Nombre.Válido) |>
+  select(`Nombre Válido`, `Rango Taxonómico`) |>
+  rename(value=`Nombre Válido`) |>
   distinct() |>
   mutate(
     rank = case_when(
-      Rango.Taxonómico == "Familia" ~ "family",
-      Rango.Taxonómico == "Género" ~ "genus",
-      Rango.Taxonómico == "Especie" ~ "species",
+      `Rango Taxonómico` == "Familia" ~ "family",
+      `Rango Taxonómico` == "Género" ~ "genus",
+      `Rango Taxonómico` == "Especie" ~ "species",
       .default = NA
     ),
     type = 0,
     level = "species"
   ) |>
   filter(!is.na(rank)) |>
-  select(-Rango.Taxonómico)
+  select(-`Rango Taxonómico`)
 
 covariables <- tibble(
   name = "plants",
@@ -94,12 +107,17 @@ data <- list(
 
 resp_dataset_creation <- POST(URL1, body = data, encode = "json")
 
-# resp_dataset_creation %>% 
-#   content()
-
 # NOTE: to explore the analysis results visit
 # https://species.conabio.gob.mx/dbdev/geoportal_v0.1.html#link/?token=<token_value>
 token <- content(resp_dataset_creation)$token
-to_log <- c(BEE_SP_EXAMPLE, token, FOOTPRINT)
+URL_RESULT <- "https://species.conabio.gob.mx/dbdev/geoportal_v0.1.html#link/?token="
+url <- str_glue("{URL_RESULT}{token}")
+result_data <- list(
+  "sp_code" = sp_code,
+  "token" = token
+) %>% jsonlite::toJSON(auto_unbox = TRUE)
 
-write(to_log, "niche_info.txt", append = TRUE, ncolumns = 3)
+cli_alert_success(c("Analysis registered with information:\n",
+                    "{result_data}\n",
+                    "To view analysis visit:\n",
+                    "{.url {url}}"))

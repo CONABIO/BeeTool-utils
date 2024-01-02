@@ -1,3 +1,4 @@
 default:
   "data_folder": "./data"
   "reviewed_plant_checklist": "./data/plant_checklist_reviewed.xlsx"
+  "bee_sp_codes_file": "./data/bee-sps.csv"
