@@ -2,11 +2,13 @@ library(dplyr)
 library(readr)
 library(rgbif)
 
+config <- config::get()
+
 # Countries of interest
 countries <- c('CA', 'MX', 'US')
 
 #Lista de especies a descargar#
-lista <- read_csv("data/bee-sps.csv")
+lista <- read_csv(config$bee_sp_codes_file)
 
 lista <- lista %>%
   mutate(scientificName = paste(Género, Especie))
@@ -14,7 +16,7 @@ lista <- lista %>%
 # match the names
 gbif_taxon_keys <- lista %>%
   pull(scientificName) %>%
-  head(1000) %>% # only first 1000 names
+  # head(1000) %>% # only first 1000 names
   name_backbone_checklist() %>% # match to backbone
   filter(!matchType == "NONE") %>% # get matched names
   pull(usageKey)
