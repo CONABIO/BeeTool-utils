@@ -23,7 +23,7 @@ objective is to create a plant checklist, which can be reviewed by a plant
 taxonomy specialist. To achieve this, follow the script execution steps outlined 
 below.
 
-```{mermaid}
+```mermaid
 flowchart TD
     A("`file: **data/sp-sps.csv**`") --> B("download_interaction_data_from_globi.R")
     B --> C("create_plant_checklist_by_bee.R")
