@@ -25,10 +25,13 @@ below.
 
 ```mermaid
 flowchart TD
-    A("`file: **data/sp-sps.csv**`") --> B("download_interaction_data_from_globi.R")
+    A("file: data/sp-sps.csv") --> B("download_interaction_data_from_globi.R")
     B --> C("create_plant_checklist_by_bee.R")
-    C --> D("create_plant_checklist_w_countries.R")
-    D --> E("`output file: **data/plant_checklist_w_countries.csv**`")
+    D("Download country border from Natural Earth Data")
+    C --> E("add_country_to_checklist.R")
+    D --> |edit config.yml file with path|E
+    E --> F("create_plant_checklist_w_countries.R")
+    F --> G("output file: data/plant_checklist_w_countries.csv")
 ```
 
 ## Contact

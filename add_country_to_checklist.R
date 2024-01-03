@@ -15,8 +15,7 @@ listado_archivos <- fs::dir_ls(path = DATA_FOLDER, glob="*_list.csv")
 crs_wgs84 <- "+proj=longlat +datum=WGS84 +ellps=WGS84 +towgs84=0,0,0"
 
 # Download country borders from https://www.naturalearthdata.com/downloads/50m-cultural-vectors/
-shp_countries_fp <- "./countries/ne_50m_admin_0_countries.shp"
-world_info <- vect(shp_countries_fp)
+world_info <- vect(config$country_borders_path)
 attr_country <- c("ISO_A2", "NAME_ES")
 
 for(f in listado_archivos) {
