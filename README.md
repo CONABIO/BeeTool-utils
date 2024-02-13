@@ -18,7 +18,7 @@ understand its functionality and requirements.
 
 ## Data flow description and script dependency
 
-Bee species and their `sp_codes` are listed in the `data/sp-sps.csv` file. The 
+Bee species and their `sp_codes` are listed in the `data/bee-sps.csv` file. The 
 first objective is to create a plant checklist, which can be reviewed by a plant 
 taxonomy specialist. To achieve this, follow the script execution steps outlined 
 below.
